@@ -1,0 +1,12 @@
+**pyc
+__pycache__/
+.ipynb_checkpoints/
+*.ipynb
+.vscode/
+gobigger.egg-info/
+*.log
+.cache/
+**/build/
+Thumbs.db
+ehthumbs.db
+Desktop.ini

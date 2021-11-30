@@ -1,0 +1,4202 @@
+[
+    {
+        "district": "东城",
+        "name": "天天家园 3室1厅 南",
+        "total_price": "850万",
+        "unit_price": "67,941元/平",
+        "square": " 125.11平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东城区 悠胜美苑 03年新楼 商品房 视野好",
+        "total_price": "545万",
+        "unit_price": "77,669元/平",
+        "square": " 70.17平米 "
+    },
+    {
+        "district": "东城",
+        "name": "忠实里东区 中间层 带电梯 商品房",
+        "total_price": "632万",
+        "unit_price": "109,514元/平",
+        "square": " 57.71平米 "
+    },
+    {
+        "district": "东城",
+        "name": "龙潭湖 龙潭北里小区 规整社区 配套齐全全南向三居室",
+        "total_price": "630万",
+        "unit_price": "96,375元/平",
+        "square": " 65.37平米 "
+    },
+    {
+        "district": "东城",
+        "name": "北河沿大街 中间楼层东向两居室",
+        "total_price": "666万",
+        "unit_price": "125,590元/平",
+        "square": " 53.03平米 "
+    },
+    {
+        "district": "东城",
+        "name": "菊儿胡同 4室1厅 南 北",
+        "total_price": "1430万",
+        "unit_price": "154,846元/平",
+        "square": " 92.35平米 "
+    },
+    {
+        "district": "东城",
+        "name": "满五唯一 视野宽阔 南北通透 采光充足",
+        "total_price": "1800万",
+        "unit_price": "125,848元/平",
+        "square": " 143.03平米 "
+    },
+    {
+        "district": "东城",
+        "name": "中海紫御公馆明厨明卫双南向大卧室两居",
+        "total_price": "1028万",
+        "unit_price": "114,121元/平",
+        "square": " 90.08平米 "
+    },
+    {
+        "district": "西城",
+        "name": "汽北小区小区 南北通透两居室 诚心出售",
+        "total_price": "650万",
+        "unit_price": "123,107元/平",
+        "square": " 52.8平米 "
+    },
+    {
+        "district": "东城",
+        "name": "广渠门内大街 不临街 交通方便",
+        "total_price": "655万",
+        "unit_price": "102,456元/平",
+        "square": " 63.93平米 "
+    },
+    {
+        "district": "东城",
+        "name": "富贵园1居室中间楼层，小区人车分流距离地铁100米，",
+        "total_price": "648万",
+        "unit_price": "101,664元/平",
+        "square": " 63.74平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东城二环里新改造小区靠公园地铁",
+        "total_price": "430万",
+        "unit_price": "94,319元/平",
+        "square": " 45.59平米 "
+    },
+    {
+        "district": "东城",
+        "name": "广渠门忠实里 三居室 东南向 有电梯采光好",
+        "total_price": "720万",
+        "unit_price": "87,592元/平",
+        "square": " 82.2平米 "
+    },
+    {
+        "district": "东城",
+        "name": "国瑞城高层南北三居室 地铁崇文门站",
+        "total_price": "1699万",
+        "unit_price": "107,928元/平",
+        "square": " 157.42平米 "
+    },
+    {
+        "district": "东城",
+        "name": "崇文门国瑞城中区南北三居，前后观景，双明卫，有钥匙",
+        "total_price": "2230万",
+        "unit_price": "119,488元/平",
+        "square": " 186.63平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "华腾园南向三居，正看花园，精装修，有固定车位",
+        "total_price": "985万",
+        "unit_price": "78,088元/平",
+        "square": " 126.14平米 "
+    },
+    {
+        "district": "西城",
+        "name": "信和嘉园 南北通透 精装修 户型方正 看房方便 诚心卖",
+        "total_price": "2688万",
+        "unit_price": "87,132元/平",
+        "square": " 308.5平米 "
+    },
+    {
+        "district": "西城",
+        "name": "红居南街 2室1厅 西北",
+        "total_price": "469万",
+        "unit_price": "102,469元/平",
+        "square": " 45.77平米 "
+    },
+    {
+        "district": "西城",
+        "name": "侨办大院  三室一厅  有电梯  满五年唯一",
+        "total_price": "1400万",
+        "unit_price": "149,095元/平",
+        "square": " 93.9平米 "
+    },
+    {
+        "district": "西城",
+        "name": "红莲晴园 三居双卫 阳台大 中间楼层 采光好 无遮挡",
+        "total_price": "1200万",
+        "unit_price": "101,981元/平",
+        "square": " 117.67平米 "
+    },
+    {
+        "district": "西城",
+        "name": "三里河南二巷双南两居，采光好，无遮挡",
+        "total_price": "789万",
+        "unit_price": "143,716元/平",
+        "square": " 54.9平米 "
+    },
+    {
+        "district": "西城",
+        "name": "小区车位充足，四居室，中组部分房，阜成门，月坛公园",
+        "total_price": "1218万",
+        "unit_price": "103,484元/平",
+        "square": " 117.7平米 "
+    },
+    {
+        "district": "东城",
+        "name": "沙滩后街55号院 南北通透  精装修两居室 满五唯一",
+        "total_price": "780万",
+        "unit_price": "137,059元/平",
+        "square": " 56.91平米 "
+    },
+    {
+        "district": "东城",
+        "name": "华城滨河世家+高层大一居+两居格局+满五唯一+钥匙房",
+        "total_price": "830万",
+        "unit_price": "125,568元/平",
+        "square": " 66.1平米 "
+    },
+    {
+        "district": "东城",
+        "name": "本家润园C区  视野好  临地铁  两居室  配套成熟",
+        "total_price": "720万",
+        "unit_price": "102,535元/平",
+        "square": " 70.22平米 "
+    },
+    {
+        "district": "东城",
+        "name": "海运仓规整社区 三室两卫复式带电梯 南北朝向采光好",
+        "total_price": "1150万",
+        "unit_price": "120,824元/平",
+        "square": " 95.18平米 "
+    },
+    {
+        "district": "东城",
+        "name": "广渠门桥 金世纪嘉园西南两居室出售",
+        "total_price": "850万",
+        "unit_price": "78,624元/平",
+        "square": " 108.11平米 "
+    },
+    {
+        "district": "东城",
+        "name": "满五唯一住房 明厨明卫 采光好 视野宽阔",
+        "total_price": "1150万",
+        "unit_price": "118,876元/平",
+        "square": " 96.74平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "晨光B区  南北三居  满五唯一  诚意出售  随时签约",
+        "total_price": "880万",
+        "unit_price": "65,692元/平",
+        "square": " 133.96平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "北工大磨房南里 带车位 满五年唯一",
+        "total_price": "578万",
+        "unit_price": "49,200元/平",
+        "square": " 117.48平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "满五年唯一，楼层好，采光好，无遮挡，户型方正大厨房",
+        "total_price": "429万",
+        "unit_price": "64,376元/平",
+        "square": " 66.64平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "户型方正，三个方向采光，高层无遮挡",
+        "total_price": "440万",
+        "unit_price": "40,084元/平",
+        "square": " 109.77平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "农光里小区 精装修 户型方正 近地铁",
+        "total_price": "430万",
+        "unit_price": "64,391元/平",
+        "square": " 66.78平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "6号线 十里堡 南北通透两居 交通便利 看房方便",
+        "total_price": "308万",
+        "unit_price": "52,867元/平",
+        "square": " 58.26平米 "
+    },
+    {
+        "district": "西城",
+        "name": "1997北礼士路 高楼层 带电梯正规大客厅 房龄新 精装修",
+        "total_price": "760万",
+        "unit_price": "126,456元/平",
+        "square": " 60.1平米 "
+    },
+    {
+        "district": "西城",
+        "name": "丰汇园小区 3室2厅 东 西",
+        "total_price": "2450万",
+        "unit_price": "164,210元/平",
+        "square": " 149.2平米 "
+    },
+    {
+        "district": "西城",
+        "name": "西城区 南北三居 明厨明卫 低楼层 采光充足 满五年",
+        "total_price": "780万",
+        "unit_price": "100,283元/平",
+        "square": " 77.78平米 "
+    },
+    {
+        "district": "西城",
+        "name": "新德街35号院2000年建成钢混结构南北向两居中间层",
+        "total_price": "1340万",
+        "unit_price": "149,721元/平",
+        "square": " 89.5平米 "
+    },
+    {
+        "district": "西城",
+        "name": "德胜里一区 双南向2居室 业主诚售",
+        "total_price": "810万",
+        "unit_price": "161,677元/平",
+        "square": " 50.1平米 "
+    },
+    {
+        "district": "西城",
+        "name": "常青藤嘉园 2室1厅 东",
+        "total_price": "915万",
+        "unit_price": "103,064元/平",
+        "square": " 88.78平米 "
+    },
+    {
+        "district": "东城",
+        "name": "商本满五年唯一，精品装修。中高层把边户视野采光棒",
+        "total_price": "1100万",
+        "unit_price": "121,346元/平",
+        "square": " 90.65平米 "
+    },
+    {
+        "district": "东城",
+        "name": "民安小区东直门内北小街 2室1厅 东 西",
+        "total_price": "780万",
+        "unit_price": "101,194元/平",
+        "square": " 77.08平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东城安定门 安德路47号院 南北两居室",
+        "total_price": "666万",
+        "unit_price": "114,081元/平",
+        "square": " 58.38平米 "
+    },
+    {
+        "district": "东城",
+        "name": "朝阳门南小街挨着金宝街近协和医院",
+        "total_price": "930万",
+        "unit_price": "115,787元/平",
+        "square": " 80.32平米 "
+    },
+    {
+        "district": "东城",
+        "name": "兴隆都市馨园全南两居，双阳台，得房率92%",
+        "total_price": "798万",
+        "unit_price": "109,721元/平",
+        "square": " 72.73平米 "
+    },
+    {
+        "district": "东城",
+        "name": "朝内大街  精装修 南北东通透两居室 中间楼层随时签约",
+        "total_price": "690万",
+        "unit_price": "108,016元/平",
+        "square": " 63.88平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "10号院低楼层三居室 南北通透 无遮挡",
+        "total_price": "400万",
+        "unit_price": "58,089元/平",
+        "square": " 68.86平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "满五年唯一，中间层，通透两居室，户型好",
+        "total_price": "455万",
+        "unit_price": "74,775元/平",
+        "square": " 60.85平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "瑞和国际 东向三居室 两梯六户 封闭管理",
+        "total_price": "760万",
+        "unit_price": "52,837元/平",
+        "square": " 143.84平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "国美第一城3号院 高层全南两居 楼层高 视野好",
+        "total_price": "705万",
+        "unit_price": "70,990元/平",
+        "square": " 99.31平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "珠江帝景伯爵山一层带55平米精装两居室，随时看房。",
+        "total_price": "1160万",
+        "unit_price": "129,523元/平",
+        "square": " 89.56平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "世纪村东区东南三居室业主诚意出售",
+        "total_price": "795万",
+        "unit_price": "84,737元/平",
+        "square": " 93.82平米 "
+    },
+    {
+        "district": "西城",
+        "name": "新风街 南北通透 2居 看房随时",
+        "total_price": "860万",
+        "unit_price": "160,748元/平",
+        "square": " 53.5平米 "
+    },
+    {
+        "district": "西城",
+        "name": "南二环右安门内万博苑 三居室装修好 满五年",
+        "total_price": "1280万",
+        "unit_price": "95,523元/平",
+        "square": " 134平米 "
+    },
+    {
+        "district": "西城",
+        "name": "阜成门南大街 带电梯两居室 视野好",
+        "total_price": "615万",
+        "unit_price": "153,367元/平",
+        "square": " 40.1平米 "
+    },
+    {
+        "district": "西城",
+        "name": "阳光丽景南北通透 经典大三居 有产权车位 高层视野",
+        "total_price": "2390万",
+        "unit_price": "162,907元/平",
+        "square": " 146.71平米 "
+    },
+    {
+        "district": "西城",
+        "name": "六铺炕一区6号院，南北通透户型，满五唯一，管理好",
+        "total_price": "1430万",
+        "unit_price": "95,270元/平",
+        "square": " 150.1平米 "
+    },
+    {
+        "district": "西城",
+        "name": "牛街西里西南向两居 无遮挡采光好看房方便 诚意出售",
+        "total_price": "763万",
+        "unit_price": "101,829元/平",
+        "square": " 74.93平米 "
+    },
+    {
+        "district": "东城",
+        "name": "人车分流，环境好、高层，楼层好、东西不临街，景观好",
+        "total_price": "1600万",
+        "unit_price": "114,968元/平",
+        "square": " 139.17平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东城龙体区域南北通透2居室近龙潭湖公园",
+        "total_price": "550万",
+        "unit_price": "114,061元/平",
+        "square": " 48.22平米 "
+    },
+    {
+        "district": "东城",
+        "name": "新景家园东区 商品房 东西三居室 满五年唯一",
+        "total_price": "1160万",
+        "unit_price": "131,148元/平",
+        "square": " 88.45平米 "
+    },
+    {
+        "district": "东城",
+        "name": "琉璃井东街 2室1厅 南 北",
+        "total_price": "486万",
+        "unit_price": "88,930元/平",
+        "square": " 54.65平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "小关北里45号院 全明格局两居室  满五唯一",
+        "total_price": "539万",
+        "unit_price": "83,748元/平",
+        "square": " 64.36平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "传媒教师家属楼 正规两居室 南向采光好",
+        "total_price": "265万",
+        "unit_price": "45,817元/平",
+        "square": " 57.84平米 "
+    },
+    {
+        "district": "西城",
+        "name": "长椿街 广安门 朝南小两居 满二唯一",
+        "total_price": "560万",
+        "unit_price": "111,510元/平",
+        "square": " 50.22平米 "
+    },
+    {
+        "district": "西城",
+        "name": "长椿街 满五南北通透明厨明卫中间楼层有电梯",
+        "total_price": "720万",
+        "unit_price": "118,558元/平",
+        "square": " 60.73平米 "
+    },
+    {
+        "district": "西城",
+        "name": "陶然亭平原里小区南北通透一居室采光无遮挡",
+        "total_price": "595万",
+        "unit_price": "118,716元/平",
+        "square": " 50.12平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "韦伯豪家园大复式 南北通透，全明卫 诚心出售",
+        "total_price": "2500万",
+        "unit_price": "108,132元/平",
+        "square": " 231.2平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "华纺易城东区 对小区绿化 全天采光无遮挡 满五唯一",
+        "total_price": "769万",
+        "unit_price": "86,805元/平",
+        "square": " 88.59平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "满五年唯一 户型方正 南向不临街 无遮挡 拎包入住",
+        "total_price": "810万",
+        "unit_price": "70,161元/平",
+        "square": " 115.45平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "柏林爱乐三期全南一居室 高楼层 采光视野好",
+        "total_price": "409万",
+        "unit_price": "59,630元/平",
+        "square": " 68.59平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "朝阳公园，公园五号，满五唯一，视野好，直观国贸CBD",
+        "total_price": "930万",
+        "unit_price": "81,082元/平",
+        "square": " 114.7平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "远洋万和城A区 全新房未住 刷卡入户 只有契税 诚售",
+        "total_price": "3350万",
+        "unit_price": "116,807元/平",
+        "square": " 286.8平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "禧福汇国际社区 高楼层 南北通透 视野开阔 诚意出售",
+        "total_price": "1290万",
+        "unit_price": "93,955元/平",
+        "square": " 137.3平米 "
+    },
+    {
+        "district": "西城",
+        "name": "裕中西里 南北通透三居室 正南正北 采光好",
+        "total_price": "1250万",
+        "unit_price": "140,292元/平",
+        "square": " 89.1平米 "
+    },
+    {
+        "district": "西城",
+        "name": "西城安德路优质三居室，田字格户型格局好采光好",
+        "total_price": "885万",
+        "unit_price": "129,576元/平",
+        "square": " 68.3平米 "
+    },
+    {
+        "district": "西城",
+        "name": "满五年家庭唯一住房，中间楼层，南北朝向通透 采光好",
+        "total_price": "930万",
+        "unit_price": "150,975元/平",
+        "square": " 61.6平米 "
+    },
+    {
+        "district": "西城",
+        "name": "西城两居，南北无遮挡，视野好，小区管理好，湾子站。",
+        "total_price": "609万",
+        "unit_price": "103,466元/平",
+        "square": " 58.86平米 "
+    },
+    {
+        "district": "西城",
+        "name": "铁二区 朝南一居  精装修  随时签约",
+        "total_price": "670万",
+        "unit_price": "154,378元/平",
+        "square": " 43.4平米 "
+    },
+    {
+        "district": "西城",
+        "name": "满五年 成本价 诚心出售 小两居 复兴门外大街",
+        "total_price": "730万",
+        "unit_price": "141,200元/平",
+        "square": " 51.7平米 "
+    },
+    {
+        "district": "西城",
+        "name": "西单 新壁街小区 朝南精装 小两居",
+        "total_price": "738万",
+        "unit_price": "144,565元/平",
+        "square": " 51.05平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "复兴路79号院 南北向 两居室 满五年 采光好",
+        "total_price": "540万",
+        "unit_price": "81,326元/平",
+        "square": " 66.4平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "亮甲店小区 2室2厅 南 北",
+        "total_price": "810万",
+        "unit_price": "82,059元/平",
+        "square": " 98.71平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "金隅山墅 南北通透 毛坯 上叠拼别墅",
+        "total_price": "1600万",
+        "unit_price": "71,172元/平",
+        "square": " 224.81平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "中监所西区 南北通透三居带客厅 楼龄新",
+        "total_price": "1314万",
+        "unit_price": "137,535元/平",
+        "square": " 95.54平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "房子是东西通透的2居室，带电梯，小区管理好",
+        "total_price": "585万",
+        "unit_price": "94,355元/平",
+        "square": " 62平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "康城联排，接受换房周期，诚心出售",
+        "total_price": "1130万",
+        "unit_price": "47,086元/平",
+        "square": " 239.99平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "安华里社区  精装修 南北田字格三居室 满五唯一",
+        "total_price": "730万",
+        "unit_price": "85,401元/平",
+        "square": " 85.48平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "劲松七区 三居 光明桥 龙潭湖 南北通透",
+        "total_price": "360万",
+        "unit_price": "59,682元/平",
+        "square": " 60.32平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "富力又一城C区 南北通透三居室 中间楼层 前后观景",
+        "total_price": "840万",
+        "unit_price": "54,145元/平",
+        "square": " 155.14平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "西坝河北里 3室1厅 东南",
+        "total_price": "1065万",
+        "unit_price": "74,559元/平",
+        "square": " 142.84平米 "
+    },
+    {
+        "district": "西城",
+        "name": "正规西向2居室 户型方正 位置安静 无遮挡",
+        "total_price": "1020万",
+        "unit_price": "119,649元/平",
+        "square": " 85.25平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "水科院 西南两居 带电梯 满五唯一 看房方便",
+        "total_price": "850万",
+        "unit_price": "116,121元/平",
+        "square": " 73.2平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "翠微南里1层南北2室2厅2卫 适合老年人诚心卖多14平",
+        "total_price": "580万",
+        "unit_price": "106,834元/平",
+        "square": " 54.29平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "南北通透双阳台，业主诚意出售，小区停车方便，视野好",
+        "total_price": "698万",
+        "unit_price": "89,833元/平",
+        "square": " 77.7平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "昌运宫三环内带电梯，闹中取静，",
+        "total_price": "680万",
+        "unit_price": "93,664元/平",
+        "square": " 72.6平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "恩济里1层大两居室 大客厅 看房随时",
+        "total_price": "585万",
+        "unit_price": "92,272元/平",
+        "square": " 63.4平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "复兴路77号院 2室1厅 南",
+        "total_price": "468万",
+        "unit_price": "89,143元/平",
+        "square": " 52.5平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "华威北里满五唯一电梯房卧室朝南",
+        "total_price": "299万",
+        "unit_price": "65,029元/平",
+        "square": " 45.98平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "店长推荐 高楼层西南向的两居 景观萧太后河 采光好",
+        "total_price": "370万",
+        "unit_price": "47,243元/平",
+        "square": " 78.32平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "朝阳区，立水桥，商办类，全款购买，可注册公司",
+        "total_price": "280万",
+        "unit_price": "33,090元/平",
+        "square": " 84.62平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "东一时区满五年唯一，全明格局2居有地铁看房方便",
+        "total_price": "449万",
+        "unit_price": "52,756元/平",
+        "square": " 85.11平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "金沟河2号院 海淀五棵松 正规三居 南北通透购房成本低",
+        "total_price": "475万",
+        "unit_price": "84,220元/平",
+        "square": " 56.4平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "电梯房 两居 中间层 采光好 满五唯一",
+        "total_price": "690万",
+        "unit_price": "89,868元/平",
+        "square": " 76.78平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "永定路85号院永定路街道四街坊社区",
+        "total_price": "415万",
+        "unit_price": "73,976元/平",
+        "square": " 56.1平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "世纪城远大园三区 精装板楼 三居室 带车位",
+        "total_price": "2050万",
+        "unit_price": "110,973元/平",
+        "square": " 184.73平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "博雅德园 全南两居室 采光视野好",
+        "total_price": "800万",
+        "unit_price": "84,211元/平",
+        "square": " 95平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "紫竹桥北洼路28号院高楼层无遮挡西南向两居室",
+        "total_price": "900万",
+        "unit_price": "86,075元/平",
+        "square": " 104.56平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "清河，清缘东里，正规两居室，南北向，满五年。",
+        "total_price": "665万",
+        "unit_price": "79,148元/平",
+        "square": " 84.02平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "翠微东里 南北东向三居 南北双阳台",
+        "total_price": "990万",
+        "unit_price": "112,821元/平",
+        "square": " 87.75平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "紫竹桥 正规三居 带客厅有窗户 精装修 楼龄新 中间层",
+        "total_price": "750万",
+        "unit_price": "96,154元/平",
+        "square": " 78平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "枫丹丽舍 3室2厅 南 北",
+        "total_price": "978万",
+        "unit_price": "66,436元/平",
+        "square": " 147.21平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "玉海园三里新上两居室+精装修+南北通透+满五年",
+        "total_price": "593万",
+        "unit_price": "81,625元/平",
+        "square": " 72.65平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "梅园甲低楼层，满五唯一，性质好。",
+        "total_price": "820万",
+        "unit_price": "77,858元/平",
+        "square": " 105.32平米 "
+    },
+    {
+        "district": "东城",
+        "name": "双玉中街43号院 一梯两户 南北通透三居室 明厨明卫",
+        "total_price": "820万",
+        "unit_price": "105,129元/平",
+        "square": " 78平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "华美橡树岭 南北两居 满五年唯一 有钥匙",
+        "total_price": "399万",
+        "unit_price": "43,598元/平",
+        "square": " 91.52平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "满庭芳园东南向三居室 经典户型 有钥匙看房方便",
+        "total_price": "1420万",
+        "unit_price": "107,001元/平",
+        "square": " 132.71平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "北三环 蓟门桥 大钟寺 带电梯 两居室",
+        "total_price": "570万",
+        "unit_price": "92,834元/平",
+        "square": " 61.4平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "门头馨村北二区两居 南北朝向 二层 稳定出售",
+        "total_price": "520万",
+        "unit_price": "55,981元/平",
+        "square": " 92.89平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "北太平庄路2号院 2室1厅 南 北",
+        "total_price": "930万",
+        "unit_price": "95,239元/平",
+        "square": " 97.65平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "西直门明光村小区东南向三居双卧朝南采光好安静不临街",
+        "total_price": "830万",
+        "unit_price": "104,403元/平",
+        "square": " 79.5平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "怡美家园三卧朝南满五唯一精装自住拎包入住",
+        "total_price": "1080万",
+        "unit_price": "88,243元/平",
+        "square": " 122.39平米 "
+    },
+    {
+        "district": "东城",
+        "name": "板厂南里  低楼层 南北通透 满五年唯一 不临街",
+        "total_price": "590万",
+        "unit_price": "117,906元/平",
+        "square": " 50.04平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东直门外大街(东城）双南向两居室",
+        "total_price": "780万",
+        "unit_price": "97,379元/平",
+        "square": " 80.1平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东南三居室 全天采光 封闭式管理 人车分流 距地铁50米",
+        "total_price": "1130万",
+        "unit_price": "115,957元/平",
+        "square": " 97.45平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东城 安定路小区 社科院家属楼 户型方正 布局合理",
+        "total_price": "926万",
+        "unit_price": "104,942元/平",
+        "square": " 88.24平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东城区 次新小区 一梯四户 使用面积大 东南向高层",
+        "total_price": "698万",
+        "unit_price": "103,362元/平",
+        "square": " 67.53平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "左家庄北里，楼层适宜，居住舒适，两居室，靠谱出售",
+        "total_price": "375万",
+        "unit_price": "69,963元/平",
+        "square": " 53.6平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "万豪国际公寓 北向 正规一居室",
+        "total_price": "475万",
+        "unit_price": "68,622元/平",
+        "square": " 69.22平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "远洋一方润园6号院 南北通透三居室 诚心出售",
+        "total_price": "420万",
+        "unit_price": "47,609元/平",
+        "square": " 88.22平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "和平街十三区高层西南两居室，满5年唯一随时签约",
+        "total_price": "668万",
+        "unit_price": "94,072元/平",
+        "square": " 71.01平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "金隅康惠园1号院 2室1厅 南 北",
+        "total_price": "370万",
+        "unit_price": "41,984元/平",
+        "square": " 88.13平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "南向2居  只有契税  直角阳台 小区中间位置 明卫",
+        "total_price": "655万",
+        "unit_price": "67,610元/平",
+        "square": " 96.88平米 "
+    },
+    {
+        "district": "东城",
+        "name": "京城仁合 不临二环不临火车 2018年装修 无遮挡采光好",
+        "total_price": "1050万",
+        "unit_price": "91,696元/平",
+        "square": " 114.51平米 "
+    },
+    {
+        "district": "东城",
+        "name": "幸福家园三期，对花园，明厨明卫，满五年家庭唯一住房",
+        "total_price": "1568万",
+        "unit_price": "120,923元/平",
+        "square": " 129.67平米 "
+    },
+    {
+        "district": "东城",
+        "name": "西革新里124号 2室1厅 东 西",
+        "total_price": "430万",
+        "unit_price": "74,940元/平",
+        "square": " 57.38平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东城区广渠家园 2009年楼龄 地铁7号线 板楼一梯三户",
+        "total_price": "695万",
+        "unit_price": "111,486元/平",
+        "square": " 62.34平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东四地铁 板楼 精装小户型  低层双南二居 东四西大街",
+        "total_price": "668万",
+        "unit_price": "128,043元/平",
+        "square": " 52.17平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "和平街十二区 2室1厅 南",
+        "total_price": "665万",
+        "unit_price": "84,887元/平",
+        "square": " 78.34平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "南北通透带电梯复式 高楼层全天采光 满五年 随时可看",
+        "total_price": "1166万",
+        "unit_price": "89,514元/平",
+        "square": " 130.26平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "潘家园 铁道宿舍  西南向明厨明卫两居室 诚意出售",
+        "total_price": "430万",
+        "unit_price": "67,073元/平",
+        "square": " 64.11平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "和乔 层高4.9米 精装修拎包入住 业主诚售 随时看房",
+        "total_price": "649万",
+        "unit_price": "81,966元/平",
+        "square": " 79.18平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "南北通透3居室 无遮挡 视野好  看房随时",
+        "total_price": "710万",
+        "unit_price": "67,254元/平",
+        "square": " 105.57平米 "
+    },
+    {
+        "district": "东城",
+        "name": "青年湖东里 南北通透 无遮挡 诚意出售 看房方便",
+        "total_price": "1360万",
+        "unit_price": "111,039元/平",
+        "square": " 122.48平米 "
+    },
+    {
+        "district": "东城",
+        "name": "此房满五年，家庭一套住房，业主诚心出售，无遮挡",
+        "total_price": "650万",
+        "unit_price": "105,178元/平",
+        "square": " 61.8平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东城区崇文门国瑞城中区 两居室朝东视野直观好",
+        "total_price": "830万",
+        "unit_price": "119,099元/平",
+        "square": " 69.69平米 "
+    },
+    {
+        "district": "东城",
+        "name": "崇文门 广渠门 东花市 商品房满五唯一",
+        "total_price": "759万",
+        "unit_price": "93,061元/平",
+        "square": " 81.56平米 "
+    },
+    {
+        "district": "东城",
+        "name": "朝阳门  南北通透的四居室  业主诚意出售 随时签约",
+        "total_price": "2390万",
+        "unit_price": "96,726元/平",
+        "square": " 247.09平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东二环 东直门外大街 春秀路小区中国港湾家属楼",
+        "total_price": "685万",
+        "unit_price": "112,981元/平",
+        "square": " 60.63平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "2017年新社区，新风系统，中央空调，地暖，刷卡入户",
+        "total_price": "1098万",
+        "unit_price": "88,642元/平",
+        "square": " 123.87平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "双合家园 2室1厅 南",
+        "total_price": "385万",
+        "unit_price": "44,519元/平",
+        "square": " 86.48平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "亚运花园 满五唯一 东南大两居 双卫",
+        "total_price": "782万",
+        "unit_price": "68,802元/平",
+        "square": " 113.66平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "珠江帝景伯爵山 高楼层 满五唯一 诚意出售",
+        "total_price": "1150万",
+        "unit_price": "101,322元/平",
+        "square": " 113.5平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "苹果派 南北通透三居 满五唯一 诚心卖 无遮挡",
+        "total_price": "699万",
+        "unit_price": "61,985元/平",
+        "square": " 112.77平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "柏林爱乐一期 1室1厅 西",
+        "total_price": "382.8万",
+        "unit_price": "67,395元/平",
+        "square": " 56.8平米 "
+    },
+    {
+        "district": "东城",
+        "name": "日化家属院 东北三居 电梯直达",
+        "total_price": "735万",
+        "unit_price": "98,552元/平",
+        "square": " 74.58平米 "
+    },
+    {
+        "district": "东城",
+        "name": "灯市口大街 南北通透两居室，电梯直达",
+        "total_price": "885万",
+        "unit_price": "128,597元/平",
+        "square": " 68.82平米 "
+    },
+    {
+        "district": "东城",
+        "name": "外交部街33号院 低楼层 满五年 前后无遮挡 闹中取静",
+        "total_price": "1300万",
+        "unit_price": "157,748元/平",
+        "square": " 82.41平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东城天天家园 板楼南北通透2居 一梯两户带电梯 采光好",
+        "total_price": "960万",
+        "unit_price": "75,752元/平",
+        "square": " 126.73平米 "
+    },
+    {
+        "district": "东城",
+        "name": "广渠门内大街两居室满五年唯一诚心出售",
+        "total_price": "623万",
+        "unit_price": "103,180元/平",
+        "square": " 60.38平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东直门 东城区 东方银座 西南向两居室",
+        "total_price": "870万",
+        "unit_price": "76,876元/平",
+        "square": " 113.17平米 "
+    },
+    {
+        "district": "西城",
+        "name": "北礼士路70号院 东南向2居 中间层 满5年央产房性质",
+        "total_price": "815万",
+        "unit_price": "138,842元/平",
+        "square": " 58.7平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "炫特嘉园三期  全南向   无遮挡   大一居",
+        "total_price": "495万",
+        "unit_price": "71,990元/平",
+        "square": " 68.76平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "此房满五年，南北通透一居，楼层好采光充足，交通便利",
+        "total_price": "349.9万",
+        "unit_price": "72,745元/平",
+        "square": " 48.1平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "福怡苑南北通透正规三居室，两个卧室朝南。",
+        "total_price": "420万",
+        "unit_price": "50,060元/平",
+        "square": " 83.9平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "三元桥，满五唯一，全明格局低楼层两居室",
+        "total_price": "408万",
+        "unit_price": "70,552元/平",
+        "square": " 57.83平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "汇园公寓 南北通透 满五唯一 无抵押 产权清晰",
+        "total_price": "859万",
+        "unit_price": "79,596元/平",
+        "square": " 107.92平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "安贞西里新上3居室 ，高楼层，视野好，楼道干净",
+        "total_price": "750万",
+        "unit_price": "98,659元/平",
+        "square": " 76.02平米 "
+    },
+    {
+        "district": "东城",
+        "name": "太华公寓B座小区房源经纪人点评",
+        "total_price": "725万",
+        "unit_price": "69,458元/平",
+        "square": " 104.38平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东城区，90年钢混结构，户型方正，视野好，阳光充足",
+        "total_price": "615万",
+        "unit_price": "77,466元/平",
+        "square": " 79.39平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东城区 向新西里 全南2居 满五唯一诚心出售",
+        "total_price": "528万",
+        "unit_price": "96,935元/平",
+        "square": " 54.47平米 "
+    },
+    {
+        "district": "西城",
+        "name": "广安门外南街67号院 2室1厅 南 北",
+        "total_price": "545万",
+        "unit_price": "100,908元/平",
+        "square": " 54.01平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "潘家园东里 2室1厅 南 西",
+        "total_price": "605万",
+        "unit_price": "69,773元/平",
+        "square": " 86.71平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东城区 09年商品房社区 东向两居室",
+        "total_price": "666万",
+        "unit_price": "82,457元/平",
+        "square": " 80.77平米 "
+    },
+    {
+        "district": "东城",
+        "name": "新景家园东区 全凸南向一居室 满五年唯一 随时看",
+        "total_price": "765万",
+        "unit_price": "128,249元/平",
+        "square": " 59.65平米 "
+    },
+    {
+        "district": "东城",
+        "name": "广渠门内大街 户型方正三居室 采光好",
+        "total_price": "790万",
+        "unit_price": "99,497元/平",
+        "square": " 79.4平米 "
+    },
+    {
+        "district": "东城",
+        "name": "房本满五年唯一央产房 业主卖房也是换房诚心出售",
+        "total_price": "688万",
+        "unit_price": "121,663元/平",
+        "square": " 56.55平米 "
+    },
+    {
+        "district": "西城",
+        "name": "黄瓜园南北通透三居室，中间楼层，1992年楼龄新",
+        "total_price": "1200万",
+        "unit_price": "123,584元/平",
+        "square": " 97.1平米 "
+    },
+    {
+        "district": "西城",
+        "name": "马甸南村  南北通透两居  把边户型  临近公园",
+        "total_price": "990万",
+        "unit_price": "152,051元/平",
+        "square": " 65.11平米 "
+    },
+    {
+        "district": "西城",
+        "name": "裕中东里南北三居 全明格局 可签约",
+        "total_price": "998万",
+        "unit_price": "128,278元/平",
+        "square": " 77.8平米 "
+    },
+    {
+        "district": "西城",
+        "name": "西直门南大街四居室业主诚心出售，看房方便",
+        "total_price": "1300万",
+        "unit_price": "138,005元/平",
+        "square": " 94.2平米 "
+    },
+    {
+        "district": "西城",
+        "name": "双南向，电梯房，采光好, 满五年住房, 随时看房",
+        "total_price": "730万",
+        "unit_price": "143,985元/平",
+        "square": " 50.7平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "精装西南两居，满五年唯一，视野采光好，业主靠谱卖",
+        "total_price": "409万",
+        "unit_price": "46,436元/平",
+        "square": " 88.08平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "北京青年城 南北通透 采光好交通便利",
+        "total_price": "980万",
+        "unit_price": "60,881元/平",
+        "square": " 160.97平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "华严北里小区 3室1厅 西南",
+        "total_price": "880万",
+        "unit_price": "107,976元/平",
+        "square": " 81.5平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "澳洲康都，高层南向两居室，带大阳台，落地窗，诚意卖",
+        "total_price": "860万",
+        "unit_price": "99,896元/平",
+        "square": " 86.09平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "商品房，满五年，家庭在京唯一 住房，纯板楼",
+        "total_price": "278万",
+        "unit_price": "43,780元/平",
+        "square": " 63.5平米 "
+    },
+    {
+        "district": "西城",
+        "name": "信建里小区 1室1厅 南",
+        "total_price": "519万",
+        "unit_price": "142,544元/平",
+        "square": " 36.41平米 "
+    },
+    {
+        "district": "西城",
+        "name": "马相西巷中间楼层，无遮挡，随时签约，采光好",
+        "total_price": "595万",
+        "unit_price": "150,215元/平",
+        "square": " 39.61平米 "
+    },
+    {
+        "district": "西城",
+        "name": "德外马甸南村 低楼层2居室 南北通透格局方正 电梯房",
+        "total_price": "900万",
+        "unit_price": "124,482元/平",
+        "square": " 72.3平米 "
+    },
+    {
+        "district": "西城",
+        "name": "西城团结大院 满五年唯一商品房 有钥匙",
+        "total_price": "570万",
+        "unit_price": "139,025元/平",
+        "square": " 41平米 "
+    },
+    {
+        "district": "西城",
+        "name": "南纬路，南北两居室，先农坛，陶然亭",
+        "total_price": "625万",
+        "unit_price": "115,421元/平",
+        "square": " 54.15平米 "
+    },
+    {
+        "district": "西城",
+        "name": "宣武门外东里，南北通透4居室，明厨明卫，户型方正",
+        "total_price": "1050万",
+        "unit_price": "127,088元/平",
+        "square": " 82.62平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "清缘里南北通透两居室，临河观景，无遮挡，看房随时",
+        "total_price": "598万",
+        "unit_price": "78,242元/平",
+        "square": " 76.43平米 "
+    },
+    {
+        "district": "西城",
+        "name": "百万庄丑区 南北通透  明厨明卫",
+        "total_price": "675万",
+        "unit_price": "110,115元/平",
+        "square": " 61.3平米 "
+    },
+    {
+        "district": "西城",
+        "name": "西城区 广安门 恒昌花园 南北通透大四居",
+        "total_price": "1850万",
+        "unit_price": "93,270元/平",
+        "square": " 198.35平米 "
+    },
+    {
+        "district": "西城",
+        "name": "主推*西城+带电梯+三居室+西南向+楼龄新+近公园 地铁",
+        "total_price": "998万",
+        "unit_price": "121,412元/平",
+        "square": " 82.2平米 "
+    },
+    {
+        "district": "西城",
+        "name": "阜成门外北街 中间楼层 南北通透明厨明卫，随时签约",
+        "total_price": "730万",
+        "unit_price": "123,729元/平",
+        "square": " 59平米 "
+    },
+    {
+        "district": "西城",
+        "name": "文联宿舍  封闭社区  机关物业  诚心出售",
+        "total_price": "1200万",
+        "unit_price": "148,884元/平",
+        "square": " 80.6平米 "
+    },
+    {
+        "district": "西城",
+        "name": "莲花池东路甲5号院  户型方正 有燃气",
+        "total_price": "1150万",
+        "unit_price": "80,336元/平",
+        "square": " 143.15平米 "
+    },
+    {
+        "district": "西城",
+        "name": "广安门车站西街13号 满二年  95年建成",
+        "total_price": "760万",
+        "unit_price": "96,915元/平",
+        "square": " 78.42平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "西三环 厂洼 全明格局 南北通透精装 近地铁",
+        "total_price": "705万",
+        "unit_price": "104,600元/平",
+        "square": " 67.4平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "燕北园 中间层 不临街 南北向 三居",
+        "total_price": "820万",
+        "unit_price": "100,491元/平",
+        "square": " 81.6平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "此房满五年 家庭名下一套房产 户型好，交通便利",
+        "total_price": "680万",
+        "unit_price": "110,930元/平",
+        "square": " 61.3平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "索家坟、南北通透、精装修、诚心出售、随时配合签约",
+        "total_price": "550万",
+        "unit_price": "101,477元/平",
+        "square": " 54.2平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "强Y·府学上院南北通透三居室满五唯一",
+        "total_price": "1165万",
+        "unit_price": "83,465元/平",
+        "square": " 139.58平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "铁东精装两居室 中间楼层 配套齐全",
+        "total_price": "510万",
+        "unit_price": "99,805元/平",
+        "square": " 51.1平米 "
+    },
+    {
+        "district": "西城",
+        "name": "车站西街9号院南北通透两居室，业主诚心出售",
+        "total_price": "816万",
+        "unit_price": "103,005元/平",
+        "square": " 79.22平米 "
+    },
+    {
+        "district": "西城",
+        "name": "法源寺西里 央产大院 通透大格局  无遮挡采光好",
+        "total_price": "1160万",
+        "unit_price": "94,034元/平",
+        "square": " 123.36平米 "
+    },
+    {
+        "district": "西城",
+        "name": "馨莲茗园 高层精装修 南北通透 满五唯一商品房",
+        "total_price": "1459万",
+        "unit_price": "98,071元/平",
+        "square": " 148.77平米 "
+    },
+    {
+        "district": "西城",
+        "name": "西城区 红莲中里 板楼 南向 一居室 满五年家庭唯一",
+        "total_price": "415万",
+        "unit_price": "130,915元/平",
+        "square": " 31.7平米 "
+    },
+    {
+        "district": "西城",
+        "name": "远见名苑商品房一居室，楼层，视野都很棒",
+        "total_price": "538万",
+        "unit_price": "93,161元/平",
+        "square": " 57.75平米 "
+    },
+    {
+        "district": "西城",
+        "name": "新壁街小区两居室  户型好  诚心出售！",
+        "total_price": "1099万",
+        "unit_price": "151,964元/平",
+        "square": " 72.32平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "金雅园南区南北三居室一梯两户居家装修有车位",
+        "total_price": "1360万",
+        "unit_price": "95,876元/平",
+        "square": " 141.85平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "海淀北部新区  正源尚峰尚水 顶层 有附加面积",
+        "total_price": "965万",
+        "unit_price": "77,754元/平",
+        "square": " 124.11平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "北辰香麓欣露园 满五唯一 客厅挑高户型 带100平花园",
+        "total_price": "1360万",
+        "unit_price": "54,835元/平",
+        "square": " 248.02平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "海淀北部新区  一层五居室 小区中部位置 装修不错",
+        "total_price": "1960万",
+        "unit_price": "60,164元/平",
+        "square": " 325.78平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "地铁10号线西钓鱼台旁 花园洋房 一层一户 窗外公园",
+        "total_price": "1850万",
+        "unit_price": "100,435元/平",
+        "square": " 184.2平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "气象西苑2000年楼龄：东向，大客厅两居，有电梯中间层",
+        "total_price": "918万",
+        "unit_price": "101,740元/平",
+        "square": " 90.23平米 "
+    },
+    {
+        "district": "东城",
+        "name": "电梯直达，采光无遮挡，产权清晰，精装修，随时签约",
+        "total_price": "580万",
+        "unit_price": "103,813元/平",
+        "square": " 55.87平米 "
+    },
+    {
+        "district": "西城",
+        "name": "罗贤胡同，低楼层，南北精装两居室",
+        "total_price": "760万",
+        "unit_price": "142,057元/平",
+        "square": " 53.5平米 "
+    },
+    {
+        "district": "西城",
+        "name": "清芷园西南两居室，户型方正没有浪费面积",
+        "total_price": "995万",
+        "unit_price": "123,327元/平",
+        "square": " 80.68平米 "
+    },
+    {
+        "district": "西城",
+        "name": "一梯三户电梯直达车库满五唯一得房率83.55%视野好",
+        "total_price": "655万",
+        "unit_price": "134,470元/平",
+        "square": " 48.71平米 "
+    },
+    {
+        "district": "西城",
+        "name": "复地西绒线26号 高楼层看西山 管家式物业",
+        "total_price": "1075万",
+        "unit_price": "160,808元/平",
+        "square": " 66.85平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "人行分房，中间楼层，采光充足，楼龄新，随时签约",
+        "total_price": "715万",
+        "unit_price": "107,681元/平",
+        "square": " 66.4平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "前沙涧路7号院 2室1厅 南 北",
+        "total_price": "360万",
+        "unit_price": "41,595元/平",
+        "square": " 86.55平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "城华园小区  南向小一居室 有钥匙，看房方便",
+        "total_price": "430万",
+        "unit_price": "84,796元/平",
+        "square": " 50.71平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "昌运宫 采光充足 楼层好 视野宽阔",
+        "total_price": "510万",
+        "unit_price": "90,075元/平",
+        "square": " 56.62平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "文慧园 满五年 唯一 商品房 自住 精装修",
+        "total_price": "670万",
+        "unit_price": "109,478元/平",
+        "square": " 61.2平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "新上 碧水云天高楼层三居 餐客厅一体 南北通透",
+        "total_price": "2580万",
+        "unit_price": "173,516元/平",
+        "square": " 148.69平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东城区和平里三区,南北通透，格局方正，全明格局",
+        "total_price": "645万",
+        "unit_price": "147,632元/平",
+        "square": " 43.69平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东西通透  明厨明卫 中间楼层 临近公园 业主诚心出售",
+        "total_price": "575万",
+        "unit_price": "108,594元/平",
+        "square": " 52.95平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东黄城根南街 南北通透 央产房满五年封闭式管理可停车",
+        "total_price": "640万",
+        "unit_price": "109,778元/平",
+        "square": " 58.3平米 "
+    },
+    {
+        "district": "东城",
+        "name": "新景家园东区，南北通透两居室，地铁2.5.7号线沿线。",
+        "total_price": "885万",
+        "unit_price": "107,390元/平",
+        "square": " 82.41平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东中街，满五年，南北通透3室2厅，1998年建",
+        "total_price": "1180万",
+        "unit_price": "109,921元/平",
+        "square": " 107.35平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东花市北里中区 3室2厅 南 北",
+        "total_price": "1038万",
+        "unit_price": "103,521元/平",
+        "square": " 100.27平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "满五年，家庭唯一，南北两居，客厅朝南",
+        "total_price": "570万",
+        "unit_price": "80,509元/平",
+        "square": " 70.8平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "永泰东里 2室1厅 南 北",
+        "total_price": "488万",
+        "unit_price": "81,037元/平",
+        "square": " 60.22平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "万泉庄小区 南北三居室 精装修 产权清晰 诚意出售！",
+        "total_price": "886万",
+        "unit_price": "115,969元/平",
+        "square": " 76.4平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "中间位置，中楼层，看房方便，双地铁，单位分房",
+        "total_price": "700万",
+        "unit_price": "94,954元/平",
+        "square": " 73.72平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "五棵松今日家园南向阳光观景三居室诚心出售",
+        "total_price": "940万",
+        "unit_price": "87,029元/平",
+        "square": " 108.01平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "上地西里成本价两居，诚意售房，随时欢迎您看房",
+        "total_price": "1100万",
+        "unit_price": "106,076元/平",
+        "square": " 103.7平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "永泰东里 明厅户型 南北通透 精装修",
+        "total_price": "555万",
+        "unit_price": "81,702元/平",
+        "square": " 67.93平米 "
+    },
+    {
+        "district": "东城",
+        "name": "光明楼 南北通透两居室   中间楼层 不临街",
+        "total_price": "588万",
+        "unit_price": "108,508元/平",
+        "square": " 54.19平米 "
+    },
+    {
+        "district": "东城",
+        "name": "70年产权商品房 精装修 有燃气 满五年唯一 朝南",
+        "total_price": "619万",
+        "unit_price": "97,712元/平",
+        "square": " 63.35平米 "
+    },
+    {
+        "district": "东城",
+        "name": "海晟名苑北区西向开间，视野无遮挡，精装修拎包入住",
+        "total_price": "530万",
+        "unit_price": "115,218元/平",
+        "square": " 46平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东二环内中间楼层，东南两居满五年，电梯楼。",
+        "total_price": "628万",
+        "unit_price": "104,894元/平",
+        "square": " 59.87平米 "
+    },
+    {
+        "district": "东城",
+        "name": "北二环  东河沿  精装修  电梯直达 两室一厅",
+        "total_price": "752万",
+        "unit_price": "126,006元/平",
+        "square": " 59.68平米 "
+    },
+    {
+        "district": "东城",
+        "name": "安定门外大街一居室带电梯，三环内，正对花园。",
+        "total_price": "540万",
+        "unit_price": "115,311元/平",
+        "square": " 46.83平米 "
+    },
+    {
+        "district": "东城",
+        "name": "夕照寺西里满五年唯一，南北格局，视野采光充足，",
+        "total_price": "480万",
+        "unit_price": "123,172元/平",
+        "square": " 38.97平米 "
+    },
+    {
+        "district": "东城",
+        "name": "豆瓣胡同，电梯直达，精装修，采光好，视野开阔",
+        "total_price": "940万",
+        "unit_price": "131,579元/平",
+        "square": " 71.44平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "北太平路16号院 3室1厅 南 北",
+        "total_price": "766万",
+        "unit_price": "110,694元/平",
+        "square": " 69.2平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "万寿寺北里 南北两居室 安静不临街 中间层无遮挡",
+        "total_price": "565万",
+        "unit_price": "104,244元/平",
+        "square": " 54.2平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "金沟河3号院 1室1厅 南 北",
+        "total_price": "350万",
+        "unit_price": "83,974元/平",
+        "square": " 41.68平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "精装修两居室 采光充足 满五唯一 随时可签约",
+        "total_price": "552万",
+        "unit_price": "99,639元/平",
+        "square": " 55.4平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东四十条  二环里大两居  独门独院   业主诚售",
+        "total_price": "750万",
+        "unit_price": "102,614元/平",
+        "square": " 73.09平米 "
+    },
+    {
+        "district": "东城",
+        "name": "仓南胡同小区，南北通透无遮挡，视野开阔",
+        "total_price": "750万",
+        "unit_price": "179,084元/平",
+        "square": " 41.88平米 "
+    },
+    {
+        "district": "东城",
+        "name": "竹杆胡同：低楼层满五年优质房源",
+        "total_price": "795万",
+        "unit_price": "116,484元/平",
+        "square": " 68.25平米 "
+    },
+    {
+        "district": "东城",
+        "name": "高层正南向一居 户型方正 近地铁 诚意出售 采光充足",
+        "total_price": "768万",
+        "unit_price": "124,696元/平",
+        "square": " 61.59平米 "
+    },
+    {
+        "district": "东城",
+        "name": "北二环东城安外西河沿有电梯满五年唯一两居室",
+        "total_price": "640万",
+        "unit_price": "116,132元/平",
+        "square": " 55.11平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东二环 西水井胡同 东西通透 正规两居室 电梯房",
+        "total_price": "738万",
+        "unit_price": "98,466元/平",
+        "square": " 74.95平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东城区，带电梯，南向一居，满五年仅这一套房子",
+        "total_price": "535万",
+        "unit_price": "113,564元/平",
+        "square": " 47.11平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "二期西南正规二居 集中供暖 采光好 视野佳",
+        "total_price": "762万",
+        "unit_price": "79,699元/平",
+        "square": " 95.61平米 "
+    },
+    {
+        "district": "东城",
+        "name": "青年湖东里 满五年 青年湖公园 房主诚意卖",
+        "total_price": "514万",
+        "unit_price": "129,439元/平",
+        "square": " 39.71平米 "
+    },
+    {
+        "district": "东城",
+        "name": "富贵园三区，西向两居室，采光好，无遮挡。",
+        "total_price": "760万",
+        "unit_price": "93,149元/平",
+        "square": " 81.59平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东城二环里长安街畔，70年产权，贡院九号，精装",
+        "total_price": "1480万",
+        "unit_price": "94,370元/平",
+        "square": " 156.83平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东城区东直门外  十字坡东里  田字格三居室 中间楼层",
+        "total_price": "789万",
+        "unit_price": "109,024元/平",
+        "square": " 72.37平米 "
+    },
+    {
+        "district": "东城",
+        "name": "恒基中心汇豪阁70年产权  二环建国内",
+        "total_price": "1468万",
+        "unit_price": "77,961元/平",
+        "square": " 188.3平米 "
+    },
+    {
+        "district": "东城",
+        "name": "豆瓣西区，满五唯一，南北通透，高层电梯房",
+        "total_price": "950万",
+        "unit_price": "134,124元/平",
+        "square": " 70.83平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "丽都高家园东南高层观景两居室，业主诚心出售",
+        "total_price": "408万",
+        "unit_price": "64,701元/平",
+        "square": " 63.06平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "甘露园南里 满五唯一 精装两居室 南北通透 采光充足",
+        "total_price": "329万",
+        "unit_price": "57,358元/平",
+        "square": " 57.36平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "华严北里小区 3室1厅 西南",
+        "total_price": "880万",
+        "unit_price": "107,976元/平",
+        "square": " 81.5平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "精装西南两居，满五年唯一，视野采光好，业主靠谱卖",
+        "total_price": "409万",
+        "unit_price": "46,436元/平",
+        "square": " 88.08平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "金海国际南区 东南北三居室 满五唯一 诚意出售",
+        "total_price": "750万",
+        "unit_price": "52,725元/平",
+        "square": " 142.25平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "江南春晓金都杭城西区南向两居室，诚意出售",
+        "total_price": "835万",
+        "unit_price": "84,678元/平",
+        "square": " 98.61平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "慧忠里小区中间南北两居，中间层，采光视野都好",
+        "total_price": "619万",
+        "unit_price": "105,903元/平",
+        "square": " 58.45平米 "
+    },
+    {
+        "district": "东城",
+        "name": "普渡寺 东西通透 精装 小户型复式一居 长安街",
+        "total_price": "820万",
+        "unit_price": "146,012元/平",
+        "square": " 56.16平米 "
+    },
+    {
+        "district": "东城",
+        "name": "朝阳门内 竹杆胡同 南北通透两居室",
+        "total_price": "810万",
+        "unit_price": "118,682元/平",
+        "square": " 68.25平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "柏林爱乐一期中间位置南北通透精装两居",
+        "total_price": "660万",
+        "unit_price": "65,935元/平",
+        "square": " 100.1平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "直观绿化，视野无遮挡 采光好，满五唯一仅有契税",
+        "total_price": "690万",
+        "unit_price": "73,797元/平",
+        "square": " 93.5平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "【店长推荐】满五唯一，管庄西里，南北通透有外扩加宽",
+        "total_price": "278万",
+        "unit_price": "44,977元/平",
+        "square": " 61.81平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "壹线国际 满五年唯一 客厅落地飘窗 不临街 户型方正",
+        "total_price": "675万",
+        "unit_price": "51,685元/平",
+        "square": " 130.6平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "首开常青藤B区/满五/南北/中间单元/有电梯",
+        "total_price": "688万",
+        "unit_price": "76,829元/平",
+        "square": " 89.55平米 "
+    },
+    {
+        "district": "西城",
+        "name": "格调小区 精装大一居，满五唯一",
+        "total_price": "855万",
+        "unit_price": "97,782元/平",
+        "square": " 87.44平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "世纪嘉园四居，观景房，有车位，直观鸟巢和水立方！",
+        "total_price": "1400万",
+        "unit_price": "73,669元/平",
+        "square": " 190.04平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "产权满五年 对社区花园 位置安静 精装可以直接入住",
+        "total_price": "1265万",
+        "unit_price": "93,628元/平",
+        "square": " 135.11平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "南北通透，餐客分离，阳光餐厅，4个阳台，1梯2户",
+        "total_price": "1000万",
+        "unit_price": "71,332元/平",
+        "square": " 140.19平米 "
+    },
+    {
+        "district": "西城",
+        "name": "西城区 南向一居 低楼层 无遮挡 满五年央产房",
+        "total_price": "460万",
+        "unit_price": "113,946元/平",
+        "square": " 40.37平米 "
+    },
+    {
+        "district": "西城",
+        "name": "红莲东南向阳光两居，满五唯一、电梯房，1995年建成",
+        "total_price": "725万",
+        "unit_price": "103,189元/平",
+        "square": " 70.26平米 "
+    },
+    {
+        "district": "西城",
+        "name": "小区年代新2004年，满五唯一，南北通透",
+        "total_price": "820万",
+        "unit_price": "131,221元/平",
+        "square": " 62.49平米 "
+    },
+    {
+        "district": "西城",
+        "name": "满五唯一，中间层，眼镜户型，俩卧室分开，无遮挡",
+        "total_price": "920万",
+        "unit_price": "100,569元/平",
+        "square": " 91.48平米 "
+    },
+    {
+        "district": "西城",
+        "name": "满五唯一 看房方便 诚心出售 楼层适中",
+        "total_price": "578万",
+        "unit_price": "113,401元/平",
+        "square": " 50.97平米 "
+    },
+    {
+        "district": "西城",
+        "name": "满五唯一  东西向两居室    户型方正   诚心出售",
+        "total_price": "499万",
+        "unit_price": "102,887元/平",
+        "square": " 48.5平米 "
+    },
+    {
+        "district": "西城",
+        "name": "西四北大街160号西四北大街160号西四北大街160号",
+        "total_price": "750万",
+        "unit_price": "151,516元/平",
+        "square": " 49.5平米 "
+    },
+    {
+        "district": "西城",
+        "name": "乐城 北向开间 满五年家庭名下唯一住房商品房 无遮挡",
+        "total_price": "445万",
+        "unit_price": "103,778元/平",
+        "square": " 42.88平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "胜古南里 生活配套成熟 满五唯一  不临街",
+        "total_price": "430万",
+        "unit_price": "75,771元/平",
+        "square": " 56.75平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "朝阳雅筑 高楼层两居，明厨明卫",
+        "total_price": "630万",
+        "unit_price": "60,513元/平",
+        "square": " 104.11平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "悦溪顶层复式  南北四居 花园洋房 一梯两户",
+        "total_price": "982万",
+        "unit_price": "112,448元/平",
+        "square": " 87.33平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "UHN国际村9号楼全南两居室，中间楼层",
+        "total_price": "1030万",
+        "unit_price": "94,013元/平",
+        "square": " 109.56平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "管庄西里 2室1厅 东 西",
+        "total_price": "282万",
+        "unit_price": "45,433元/平",
+        "square": " 62.07平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "富力又一城C区 满五唯一随时签约 产权清晰 随时签约",
+        "total_price": "540万",
+        "unit_price": "60,363元/平",
+        "square": " 89.46平米 "
+    },
+    {
+        "district": "西城",
+        "name": "西便门内大街97号院 二环里 满五年央产 中间楼层",
+        "total_price": "591万",
+        "unit_price": "102,765元/平",
+        "square": " 57.51平米 "
+    },
+    {
+        "district": "西城",
+        "name": "2002年小区 楼龄新 两梯五户 电梯直达 纯商品房",
+        "total_price": "970万",
+        "unit_price": "74,599元/平",
+        "square": " 130.03平米 "
+    },
+    {
+        "district": "西城",
+        "name": "中央音乐学院家属楼，南北通透，装修好，拎包入住",
+        "total_price": "1268万",
+        "unit_price": "158,898元/平",
+        "square": " 79.8平米 "
+    },
+    {
+        "district": "西城",
+        "name": "姚家井二巷工信部央产房，80平三居室，靠谱出售",
+        "total_price": "590万",
+        "unit_price": "73,147元/平",
+        "square": " 80.66平米 "
+    },
+    {
+        "district": "西城",
+        "name": "2000年房龄 面宽大南北双通透 两明卫大客厅朝南",
+        "total_price": "1850万",
+        "unit_price": "138,577元/平",
+        "square": " 133.5平米 "
+    },
+    {
+        "district": "西城",
+        "name": "二环里 楼龄新 高楼层 视野好 采光充足 可随时签约",
+        "total_price": "1170万",
+        "unit_price": "73,883元/平",
+        "square": " 158.36平米 "
+    },
+    {
+        "district": "西城",
+        "name": "西派国际公寓2009年封闭式小区  东西南 高楼层 视野好",
+        "total_price": "2680万",
+        "unit_price": "138,616元/平",
+        "square": " 193.34平米 "
+    },
+    {
+        "district": "西城",
+        "name": "黄寺大街 南北通透三居室 大客厅 满五唯一 95年楼龄",
+        "total_price": "870万",
+        "unit_price": "155,914元/平",
+        "square": " 55.8平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "御墅临枫锦园一区 2室2厅 南 北",
+        "total_price": "1230万",
+        "unit_price": "95,327元/平",
+        "square": " 129.03平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "精装修三居室，南北通透，小区环境好",
+        "total_price": "925万",
+        "unit_price": "54,515元/平",
+        "square": " 169.68平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "望京西园三居  南北通透   精装修  无遮挡",
+        "total_price": "1095万",
+        "unit_price": "73,500元/平",
+        "square": " 148.98平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "远洋一方溪语苑 满五唯一  精装修有产权车位 诚心出售",
+        "total_price": "546万",
+        "unit_price": "62,095元/平",
+        "square": " 87.93平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "双井 CBD 双花园南里二区双线通透三居室",
+        "total_price": "1323万",
+        "unit_price": "100,862元/平",
+        "square": " 131.17平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "甄选经典三居+户型方正+08年楼龄+地采暖",
+        "total_price": "717万",
+        "unit_price": "68,692元/平",
+        "square": " 104.38平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "易构空间 板楼 南北通透 3居室 中间楼层 户型方正",
+        "total_price": "960万",
+        "unit_price": "82,709元/平",
+        "square": " 116.07平米 "
+    },
+    {
+        "district": "西城",
+        "name": "融城 2005年商品房小区 正规三居室 电梯高层",
+        "total_price": "1860万",
+        "unit_price": "117,961元/平",
+        "square": " 157.68平米 "
+    },
+    {
+        "district": "西城",
+        "name": "红莲晴园 正规三居 业主诚心出售 看房方便",
+        "total_price": "1180万",
+        "unit_price": "81,184元/平",
+        "square": " 145.35平米 "
+    },
+    {
+        "district": "西城",
+        "name": "月坛西街东里21号院，三居室，户型方正，诚心出售。",
+        "total_price": "810万",
+        "unit_price": "142,356元/平",
+        "square": " 56.9平米 "
+    },
+    {
+        "district": "西城",
+        "name": "里仁街6号院 南北通透三居 精装 中间层 近地铁",
+        "total_price": "928万",
+        "unit_price": "133,487元/平",
+        "square": " 69.52平米 "
+    },
+    {
+        "district": "西城",
+        "name": "南纬路2号院，南北通透两居室，高层视野采光好",
+        "total_price": "638万",
+        "unit_price": "99,115元/平",
+        "square": " 64.37平米 "
+    },
+    {
+        "district": "西城",
+        "name": "扣钟北里 东向两居 有电梯 视野开阔 无遮挡",
+        "total_price": "796万",
+        "unit_price": "122,462元/平",
+        "square": " 65平米 "
+    },
+    {
+        "district": "西城",
+        "name": "三里河北街3号院 3室1厅 东南",
+        "total_price": "1080万",
+        "unit_price": "150,628元/平",
+        "square": " 71.7平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "郦城三区 明厨明卫  一层花园 双卧朝南 40平储藏间",
+        "total_price": "1626万",
+        "unit_price": "114,298元/平",
+        "square": " 142.26平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "定慧西里 财政部家属楼 管理好 上下水和暖气更换过",
+        "total_price": "466万",
+        "unit_price": "75,650元/平",
+        "square": " 61.6平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "学知园  三居两卫 精装修  全明格局 满五唯一 有电梯",
+        "total_price": "938万",
+        "unit_price": "83,825元/平",
+        "square": " 111.9平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "航天桥定慧寺商圈，满五年唯一住房，带院有车位。",
+        "total_price": "720万",
+        "unit_price": "123,077元/平",
+        "square": " 58.5平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "安宁里南区经典户型、双卧朝南、诚心卖、看房方便。",
+        "total_price": "686万",
+        "unit_price": "70,396元/平",
+        "square": " 97.45平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "1997年楼龄的单位分房，中间层，满五年，业主诚意出售",
+        "total_price": "725万",
+        "unit_price": "116,917元/平",
+        "square": " 62.01平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "博望园 精装大两居 楼龄新 有电梯 全明格局 诚心卖",
+        "total_price": "1030万",
+        "unit_price": "102,559元/平",
+        "square": " 100.43平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "太阳园 2室1厅 东南",
+        "total_price": "1218万",
+        "unit_price": "130,393元/平",
+        "square": " 93.41平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "首开畅心园全明户型两居室 看房方便",
+        "total_price": "310万",
+        "unit_price": "43,152元/平",
+        "square": " 71.84平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "十里堡三居室 南北通透 前后无遮挡 中间三层 随时看房",
+        "total_price": "428万",
+        "unit_price": "61,850元/平",
+        "square": " 69.2平米 "
+    },
+    {
+        "district": "西城",
+        "name": "北礼士路70号院地质部宿舍满五年央产带小区",
+        "total_price": "833万",
+        "unit_price": "130,565元/平",
+        "square": " 63.8平米 "
+    },
+    {
+        "district": "西城",
+        "name": "新街口 大乘巷 西城教委家属院 中间层 精装 随时可看",
+        "total_price": "1040万",
+        "unit_price": "139,974元/平",
+        "square": " 74.3平米 "
+    },
+    {
+        "district": "西城",
+        "name": "罗贤胡同 低楼层 南北两居室  成本价",
+        "total_price": "880万",
+        "unit_price": "151,203元/平",
+        "square": " 58.2平米 "
+    },
+    {
+        "district": "西城",
+        "name": "六铺炕二区  中石油花园式洋房",
+        "total_price": "679万",
+        "unit_price": "130,077元/平",
+        "square": " 52.2平米 "
+    },
+    {
+        "district": "西城",
+        "name": "椿树园低楼层市政直水，1999年满五唯一精装修好房。",
+        "total_price": "665万",
+        "unit_price": "138,687元/平",
+        "square": " 47.95平米 "
+    },
+    {
+        "district": "西城",
+        "name": "陶然北岸 3室1厅 东 北",
+        "total_price": "1650万",
+        "unit_price": "142,746元/平",
+        "square": " 115.59平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "有研科技部宿舍 牡丹园北太平庄 东南大两居 人车分流",
+        "total_price": "899万",
+        "unit_price": "110,879元/平",
+        "square": " 81.08平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "郦城二区花园洋房南北通透两居室诚意出售，采光好",
+        "total_price": "1026万",
+        "unit_price": "102,263元/平",
+        "square": " 100.33平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "永泰东里低楼层，诚意出售看房方便。",
+        "total_price": "485万",
+        "unit_price": "79,483元/平",
+        "square": " 61.02平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "农影小区 南北通透的三居室 满五年唯一 诚心出售",
+        "total_price": "1220万",
+        "unit_price": "129,954元/平",
+        "square": " 93.88平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "地质大学 中楼层 大客厅三居 采光好  不临街",
+        "total_price": "1050万",
+        "unit_price": "110,434元/平",
+        "square": " 95.08平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "满5年业主就这一套 总成本低 户型方正 居住舒适",
+        "total_price": "580万",
+        "unit_price": "69,905元/平",
+        "square": " 82.97平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "八里庄北里 满五年唯一 中楼层 客厅朝南有阳台 精装修",
+        "total_price": "606万",
+        "unit_price": "102,887元/平",
+        "square": " 58.9平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "五园一水，低密洋房，小区内部边户4居，带2个大阳台",
+        "total_price": "3200万",
+        "unit_price": "177,355元/平",
+        "square": " 180.43平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "北二环积水潭 满五年唯一 东南向三居室 无抵押 随时看",
+        "total_price": "1050万",
+        "unit_price": "123,095元/平",
+        "square": " 85.3平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "兵器家属院 南北通透明厨明卫三阳台大两居 中间楼层",
+        "total_price": "740万",
+        "unit_price": "115,988元/平",
+        "square": " 63.8平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "莱圳家园 南向两居室 ，中间楼层，景观视野好",
+        "total_price": "745万",
+        "unit_price": "98,247元/平",
+        "square": " 75.83平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "建材城西二里 2室1厅 南 北",
+        "total_price": "445万",
+        "unit_price": "70,423元/平",
+        "square": " 63.19平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "海淀南路 南北通透正规四居 满五唯一 看房随时",
+        "total_price": "1230万",
+        "unit_price": "108,850元/平",
+        "square": " 113平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "海淀产权   橙色年代西南两居室    高楼层 有钥匙",
+        "total_price": "730万",
+        "unit_price": "75,460元/平",
+        "square": " 96.74平米 "
+    },
+    {
+        "district": "东城",
+        "name": "全南向 无遮挡 精装修 周边配套齐全 诚心出售",
+        "total_price": "688万",
+        "unit_price": "117,708元/平",
+        "square": " 58.45平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "2016年 四环边楼龄新 板楼带电梯两居室",
+        "total_price": "729万",
+        "unit_price": "85,334元/平",
+        "square": " 85.43平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "学知轩 70年产权 南北通透 跃层 民用水电 有天然气",
+        "total_price": "800万",
+        "unit_price": "53,840元/平",
+        "square": " 148.59平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "皂君东里满五年中间层 明厨明卫全南向两居 采光好",
+        "total_price": "625万",
+        "unit_price": "103,477元/平",
+        "square": " 60.4平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "田村33号院 2室1厅 南",
+        "total_price": "580万",
+        "unit_price": "55,482元/平",
+        "square": " 104.54平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "小泥湾 人大东门 南北通透 中间层 近地铁 看房方便",
+        "total_price": "730万",
+        "unit_price": "128,976元/平",
+        "square": " 56.6平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "海清园 西南朝向 户型方正 满五唯一 采光好",
+        "total_price": "580万",
+        "unit_price": "65,693元/平",
+        "square": " 88.29平米 "
+    },
+    {
+        "district": "西城",
+        "name": "航空胡同40号院  南北通透  双卧朝南 后海三居室",
+        "total_price": "1028万",
+        "unit_price": "118,707元/平",
+        "square": " 86.6平米 "
+    },
+    {
+        "district": "东城",
+        "name": "小黄庄1区  高楼层双朝南精装两居",
+        "total_price": "784万",
+        "unit_price": "108,228元/平",
+        "square": " 72.44平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东城和平里五区一居室  值得选择",
+        "total_price": "555万",
+        "unit_price": "136,801元/平",
+        "square": " 40.57平米 "
+    },
+    {
+        "district": "东城",
+        "name": "北官厅胡同甲2号院，民政局家属院，南北通透",
+        "total_price": "710万",
+        "unit_price": "124,300元/平",
+        "square": " 57.12平米 "
+    },
+    {
+        "district": "东城",
+        "name": "南北通透大一居，高楼层，没遮挡，满五年业主随时签约",
+        "total_price": "595万",
+        "unit_price": "109,255元/平",
+        "square": " 54.46平米 "
+    },
+    {
+        "district": "东城",
+        "name": "国瑞城中区  高层 南向一居室",
+        "total_price": "633万",
+        "unit_price": "107,892元/平",
+        "square": " 58.67平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东城和平里两居带厅 封闭小区环境好 楼龄新",
+        "total_price": "768万",
+        "unit_price": "116,682元/平",
+        "square": " 65.82平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东城 西革新里110号院 满五年唯一",
+        "total_price": "376万",
+        "unit_price": "84,609元/平",
+        "square": " 44.44平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "西直门商圈 04年房龄 满五唯一精装修小区环境好有车位",
+        "total_price": "398万",
+        "unit_price": "103,673元/平",
+        "square": " 38.39平米 "
+    },
+    {
+        "district": "西城",
+        "name": "龙泉胡同/教职工宿舍楼-经典东西三居",
+        "total_price": "740万",
+        "unit_price": "105,972元/平",
+        "square": " 69.83平米 "
+    },
+    {
+        "district": "西城",
+        "name": "二环里 精装修 南北三居诚意出售",
+        "total_price": "715万",
+        "unit_price": "87,774元/平",
+        "square": " 81.46平米 "
+    },
+    {
+        "district": "西城",
+        "name": "南礼士路甲1号院双卧室朝南两居室出售",
+        "total_price": "605万",
+        "unit_price": "126,305元/平",
+        "square": " 47.9平米 "
+    },
+    {
+        "district": "西城",
+        "name": "陶然亭四平园 满五唯一  采光和视野很好",
+        "total_price": "730万",
+        "unit_price": "125,668元/平",
+        "square": " 58.09平米 "
+    },
+    {
+        "district": "西城",
+        "name": "西单 新壁街 全南两居 有院子",
+        "total_price": "900万",
+        "unit_price": "150,326元/平",
+        "square": " 59.87平米 "
+    },
+    {
+        "district": "西城",
+        "name": "西城 手帕口北街 南北两居室 满五年业主在京就一套",
+        "total_price": "536万",
+        "unit_price": "99,555元/平",
+        "square": " 53.84平米 "
+    },
+    {
+        "district": "西城",
+        "name": "长椿街 粮食局家属院 南北三居 户型方正",
+        "total_price": "720万",
+        "unit_price": "104,409元/平",
+        "square": " 68.96平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东城区的一居室，南向无遮挡，有电梯，楼龄新",
+        "total_price": "390万",
+        "unit_price": "82,540元/平",
+        "square": " 47.25平米 "
+    },
+    {
+        "district": "东城",
+        "name": "海运仓小区朝南向采光好   满五唯一   楼层好视野宽阔",
+        "total_price": "650万",
+        "unit_price": "135,785元/平",
+        "square": " 47.87平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东单 金宝街 东堂子 中间楼层 户型好 诚意出售",
+        "total_price": "525万",
+        "unit_price": "118,457元/平",
+        "square": " 44.32平米 "
+    },
+    {
+        "district": "东城",
+        "name": "二环内新上东南两居室 诚心出售",
+        "total_price": "660万",
+        "unit_price": "128,982元/平",
+        "square": " 51.17平米 "
+    },
+    {
+        "district": "东城",
+        "name": "国瑞城东区，南向一居室，次顶层，落地窗，采光无挡",
+        "total_price": "659万",
+        "unit_price": "106,669元/平",
+        "square": " 61.78平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东城区和平里中街3号院   户型好",
+        "total_price": "1130万",
+        "unit_price": "118,611元/平",
+        "square": " 95.27平米 "
+    },
+    {
+        "district": "东城",
+        "name": "和平里北街丙14号 民族出版社分房年代新，交通便利",
+        "total_price": "1118万",
+        "unit_price": "121,549元/平",
+        "square": " 91.98平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东城广渠门交管局家属楼电梯2居不临街视野开阔",
+        "total_price": "756万",
+        "unit_price": "106,901元/平",
+        "square": " 70.72平米 "
+    },
+    {
+        "district": "西城",
+        "name": "车站西街17号院南北向两居，精装修，低楼层",
+        "total_price": "620万",
+        "unit_price": "113,057元/平",
+        "square": " 54.84平米 "
+    },
+    {
+        "district": "西城",
+        "name": "西城二环内 电梯两居 天坛公园 友谊医院 地铁7、8号线",
+        "total_price": "639万",
+        "unit_price": "105,655元/平",
+        "square": " 60.48平米 "
+    },
+    {
+        "district": "西城",
+        "name": "格调小区 1室1厅 北",
+        "total_price": "600万",
+        "unit_price": "106,516元/平",
+        "square": " 56.33平米 "
+    },
+    {
+        "district": "西城",
+        "name": "96年小区，满五年唯一精装修，拎包即住",
+        "total_price": "645万",
+        "unit_price": "87,292元/平",
+        "square": " 73.89平米 "
+    },
+    {
+        "district": "西城",
+        "name": "小红庙全南精装两居，不临街不把边室内安静，采光好",
+        "total_price": "530万",
+        "unit_price": "100,704元/平",
+        "square": " 52.63平米 "
+    },
+    {
+        "district": "西城",
+        "name": "太平里  南北通透  中间楼层 采光好",
+        "total_price": "750万",
+        "unit_price": "96,426元/平",
+        "square": " 77.78平米 "
+    },
+    {
+        "district": "东城",
+        "name": "交道口北头条楼房 南北通透3居 满五唯一 随时看房",
+        "total_price": "855万",
+        "unit_price": "122,161元/平",
+        "square": " 69.99平米 "
+    },
+    {
+        "district": "东城",
+        "name": "位置优越，格局方正，公摊小，随时看房。",
+        "total_price": "1589万",
+        "unit_price": "121,215元/平",
+        "square": " 131.09平米 "
+    },
+    {
+        "district": "东城",
+        "name": "明厨明卫，精装修，满五唯一，不临街",
+        "total_price": "1080万",
+        "unit_price": "119,801元/平",
+        "square": " 90.15平米 "
+    },
+    {
+        "district": "东城",
+        "name": "华城滨河世家 满五唯一  明厨双卫",
+        "total_price": "1228万",
+        "unit_price": "119,759元/平",
+        "square": " 102.54平米 "
+    },
+    {
+        "district": "东城",
+        "name": "海运仓 满五唯一，全南格局，楼层好，采光充足，",
+        "total_price": "815万",
+        "unit_price": "126,318元/平",
+        "square": " 64.52平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东城区，西南两居室高楼层无遮挡 满五年",
+        "total_price": "880万",
+        "unit_price": "96,102元/平",
+        "square": " 91.57平米 "
+    },
+    {
+        "district": "西城",
+        "name": "龙泉胡同  全南向的两居   房子满五年  业主诚意",
+        "total_price": "598万",
+        "unit_price": "116,706元/平",
+        "square": " 51.24平米 "
+    },
+    {
+        "district": "西城",
+        "name": "广安门外大街 满五年 95年楼龄新 交通方便",
+        "total_price": "530万",
+        "unit_price": "97,535元/平",
+        "square": " 54.34平米 "
+    },
+    {
+        "district": "西城",
+        "name": "西豪逸景 全明格局小两居 满五唯一 诚心出售",
+        "total_price": "685万",
+        "unit_price": "92,406元/平",
+        "square": " 74.13平米 "
+    },
+    {
+        "district": "西城",
+        "name": "平原里大窗两居 中间层 满五年 诚意出售",
+        "total_price": "750万",
+        "unit_price": "117,574元/平",
+        "square": " 63.79平米 "
+    },
+    {
+        "district": "西城",
+        "name": "西单金融街京畿道小区南北通透精装修两居室",
+        "total_price": "1040万",
+        "unit_price": "179,621元/平",
+        "square": " 57.9平米 "
+    },
+    {
+        "district": "西城",
+        "name": "新街口外大街甲8号院 东西通透 满五",
+        "total_price": "960万",
+        "unit_price": "145,016元/平",
+        "square": " 66.2平米 "
+    },
+    {
+        "district": "西城",
+        "name": "阜成门 百万庄大街 融城  商品房小区 大2居 楼龄新",
+        "total_price": "1480万",
+        "unit_price": "130,363元/平",
+        "square": " 113.53平米 "
+    },
+    {
+        "district": "东城",
+        "name": "北二环 2006年社区 房子精装修 满两年",
+        "total_price": "898万",
+        "unit_price": "109,861元/平",
+        "square": " 81.74平米 "
+    },
+    {
+        "district": "东城",
+        "name": "富贵园一区小洋房，中高楼层全明格局采光好，无遮挡",
+        "total_price": "1330万",
+        "unit_price": "151,240元/平",
+        "square": " 87.94平米 "
+    },
+    {
+        "district": "东城",
+        "name": "和平里北街丙14号  南北通透三居室  民族出版社分房",
+        "total_price": "1300万",
+        "unit_price": "112,535元/平",
+        "square": " 115.52平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东城区  南北通透两居室 中间层",
+        "total_price": "535万",
+        "unit_price": "73,490元/平",
+        "square": " 72.8平米 "
+    },
+    {
+        "district": "东城",
+        "name": "南北通透两居，视野采光好，有物业管理",
+        "total_price": "608万",
+        "unit_price": "103,737元/平",
+        "square": " 58.61平米 "
+    },
+    {
+        "district": "东城",
+        "name": "和平里中街3号院 2006年建成 有地下车库 管理严格",
+        "total_price": "1380万",
+        "unit_price": "128,997元/平",
+        "square": " 106.98平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "峻峰华亭 跃层户型  满五年  看房方便  采光充足",
+        "total_price": "795万",
+        "unit_price": "48,939元/平",
+        "square": " 162.45平米 "
+    },
+    {
+        "district": "西城",
+        "name": "西城黄寺大街24号院，全南向，户型好",
+        "total_price": "1499万",
+        "unit_price": "158,793元/平",
+        "square": " 94.4平米 "
+    },
+    {
+        "district": "西城",
+        "name": "车站东街甲9号院南北向二居室 95年建 满五年名下一套",
+        "total_price": "568万",
+        "unit_price": "103,954元/平",
+        "square": " 54.64平米 "
+    },
+    {
+        "district": "西城",
+        "name": "西城 常青藤嘉园 2005年商品房 两梯六户",
+        "total_price": "459万",
+        "unit_price": "131,632元/平",
+        "square": " 34.87平米 "
+    },
+    {
+        "district": "西城",
+        "name": "西城月坛金融街展览路都在附近 配套齐全",
+        "total_price": "850万",
+        "unit_price": "148,317元/平",
+        "square": " 57.31平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东城区南北2居室，无遮挡采光好",
+        "total_price": "485万",
+        "unit_price": "70,680元/平",
+        "square": " 68.62平米 "
+    },
+    {
+        "district": "东城",
+        "name": "朝内大街203号院 高楼 电梯直达 东南向三居  明厨明卫",
+        "total_price": "985万",
+        "unit_price": "130,602元/平",
+        "square": " 75.42平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "满五唯一，南北两居室，高楼层采光好，诚意出售",
+        "total_price": "429万",
+        "unit_price": "49,676元/平",
+        "square": " 86.36平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "艺水芳园 南北通透三居 满五唯一 精装修 带电梯三居",
+        "total_price": "559万",
+        "unit_price": "50,054元/平",
+        "square": " 111.68平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "首城国际D区 3室1厅 东 南 北",
+        "total_price": "957万",
+        "unit_price": "105,746元/平",
+        "square": " 90.5平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "富力又一城A区  高层观景  满五唯一 看房方便",
+        "total_price": "489万",
+        "unit_price": "51,621元/平",
+        "square": " 94.73平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "定福庄西街 南北通透三居 低楼层",
+        "total_price": "328万",
+        "unit_price": "42,036元/平",
+        "square": " 78.03平米 "
+    },
+    {
+        "district": "西城",
+        "name": "展览路 两居室带电梯 门禁管理 楼龄偏新 产权无抵押",
+        "total_price": "679万",
+        "unit_price": "127,632元/平",
+        "square": " 53.2平米 "
+    },
+    {
+        "district": "西城",
+        "name": "西便门内大街79号院 南北两居 中间楼层",
+        "total_price": "650万",
+        "unit_price": "111,512元/平",
+        "square": " 58.29平米 "
+    },
+    {
+        "district": "西城",
+        "name": "西城区全明户型3居室，单价八万出头",
+        "total_price": "619万",
+        "unit_price": "80,068元/平",
+        "square": " 77.31平米 "
+    },
+    {
+        "district": "西城",
+        "name": "太仆寺33号院 满五年 看房有钥匙",
+        "total_price": "1160万",
+        "unit_price": "169,839元/平",
+        "square": " 68.3平米 "
+    },
+    {
+        "district": "西城",
+        "name": "牛街高层景观房，满5年，不临街，室内安静",
+        "total_price": "760万",
+        "unit_price": "98,395元/平",
+        "square": " 77.24平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "国美第一城2号院 南北通透 三居室  户型方正",
+        "total_price": "857万",
+        "unit_price": "64,263元/平",
+        "square": " 133.36平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "主卧观景拐角大阳台  客厅落地阳台直视小区梵高广场",
+        "total_price": "708万",
+        "unit_price": "61,432元/平",
+        "square": " 115.25平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "管庄周家井大院 2000年楼龄，不临街",
+        "total_price": "390万",
+        "unit_price": "49,847元/平",
+        "square": " 78.24平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "林达大厦  东南向三居室，采光无遮挡",
+        "total_price": "940万",
+        "unit_price": "47,081元/平",
+        "square": " 199.66平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "国美家园、此房楼层好、采光更是没有遮挡、诚意出售",
+        "total_price": "555万",
+        "unit_price": "69,794元/平",
+        "square": " 79.52平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "满五唯一，明厨明卫田字格，板楼四层，户型通透，精装",
+        "total_price": "540万",
+        "unit_price": "72,406元/平",
+        "square": " 74.58平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "光熙门北里双南两居室中间层诚意出售",
+        "total_price": "490万",
+        "unit_price": "81,382元/平",
+        "square": " 60.21平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "弘善家园东南二三环近地铁精装修三居满五唯一",
+        "total_price": "499万",
+        "unit_price": "55,200元/平",
+        "square": " 90.4平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "京通苑 2003年建成 落地阳台",
+        "total_price": "390万",
+        "unit_price": "45,234元/平",
+        "square": " 86.22平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "吕营嘉园A区 南北向两居室 看房方便",
+        "total_price": "426万",
+        "unit_price": "48,553元/平",
+        "square": " 87.74平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "澳洲康都朝南一居阳光充足室适合老人还孩子居住",
+        "total_price": "538万",
+        "unit_price": "79,375元/平",
+        "square": " 67.78平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "金福家园正规两居室，户型方正。",
+        "total_price": "389万",
+        "unit_price": "49,166元/平",
+        "square": " 79.12平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "华威西里 近地铁 满五年唯一 一室一厅 采光好",
+        "total_price": "325万",
+        "unit_price": "69,282元/平",
+        "square": " 46.91平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "劲松一区 1室1厅 南",
+        "total_price": "248万",
+        "unit_price": "65,453元/平",
+        "square": " 37.89平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "欢乐谷 紫南家园东南两居满五年唯一 全明格局！",
+        "total_price": "499万",
+        "unit_price": "63,181元/平",
+        "square": " 78.98平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "柏林爱乐三期 2室1厅 南 北",
+        "total_price": "639万",
+        "unit_price": "62,746元/平",
+        "square": " 101.84平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "永定路西里，东向两居室，户型方正，采光好",
+        "total_price": "799万",
+        "unit_price": "96,254元/平",
+        "square": " 83.01平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "强佑府学上院，电梯小两居，满五唯一，小区人车分流",
+        "total_price": "520万",
+        "unit_price": "79,878元/平",
+        "square": " 65.1平米 "
+    },
+    {
+        "district": "西城",
+        "name": "西城 广外 荣丰2008 复式 满五唯一 视野开阔 交通便利",
+        "total_price": "480万",
+        "unit_price": "172,291元/平",
+        "square": " 27.86平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "北3.7环 大两居 满五唯一 司法部家属楼管理好",
+        "total_price": "588万",
+        "unit_price": "82,596元/平",
+        "square": " 71.19平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "靠谱+靠谱+靠谱+满五唯一+随时可签+随时可看",
+        "total_price": "339万",
+        "unit_price": "59,297元/平",
+        "square": " 57.17平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "南沙滩小区，高层视野开阔，配套齐全，交通便利 。",
+        "total_price": "436万",
+        "unit_price": "82,420元/平",
+        "square": " 52.9平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "双花园南里一区高层的正规大三居 双阳台无浪费面积",
+        "total_price": "720万",
+        "unit_price": "49,907元/平",
+        "square": " 144.27平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "金隅悦和园 2室2厅 南",
+        "total_price": "415万",
+        "unit_price": "52,652元/平",
+        "square": " 78.82平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "新上西南三居 落地窗高楼层视野好 出门家乐福商场",
+        "total_price": "765万",
+        "unit_price": "65,396元/平",
+        "square": " 116.98平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "公安局宿舍 2室2厅 东南",
+        "total_price": "590万",
+        "unit_price": "67,199元/平",
+        "square": " 87.8平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "燕清源 1室1厅 南",
+        "total_price": "420万",
+        "unit_price": "99,810元/平",
+        "square": " 42.08平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "房子是满五年央产房，业主诚心出售",
+        "total_price": "998万",
+        "unit_price": "94,481元/平",
+        "square": " 105.63平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "牡丹园小区，诚心出售，看房有钥匙，楼龄新，单位分房",
+        "total_price": "625万",
+        "unit_price": "100,970元/平",
+        "square": " 61.9平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "门头馨村北二区两居 二层 双卧朝南 稳定出售",
+        "total_price": "555万",
+        "unit_price": "59,845元/平",
+        "square": " 92.74平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "甘家口小区楼龄新电梯直达全明一居室",
+        "total_price": "440万",
+        "unit_price": "101,617元/平",
+        "square": " 43.3平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "两南一北 全明格局 格局好 视野开阔 采光充足",
+        "total_price": "915万",
+        "unit_price": "111,314元/平",
+        "square": " 82.2平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "花园式社区，南北通透三居室，中间楼层带电梯",
+        "total_price": "1230万",
+        "unit_price": "106,559元/平",
+        "square": " 115.43平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "金晖嘉园小区位于西直门桥东北角，属于海淀本房有车位",
+        "total_price": "1300万",
+        "unit_price": "122,526元/平",
+        "square": " 106.1平米 "
+    },
+    {
+        "district": "西城",
+        "name": "三里河三区 南北通透 中间楼层",
+        "total_price": "930万",
+        "unit_price": "110,583元/平",
+        "square": " 84.1平米 "
+    },
+    {
+        "district": "西城",
+        "name": "满五唯一 视野好，采光好，格局方正",
+        "total_price": "759万",
+        "unit_price": "103,973元/平",
+        "square": " 73平米 "
+    },
+    {
+        "district": "西城",
+        "name": "扣钟北里 南北向明厨明卫户型 精装修一居室",
+        "total_price": "610万",
+        "unit_price": "126,557元/平",
+        "square": " 48.2平米 "
+    },
+    {
+        "district": "西城",
+        "name": "陶然亭公园  低楼层   明厨明卫  一室一厅",
+        "total_price": "498万",
+        "unit_price": "126,204元/平",
+        "square": " 39.46平米 "
+    },
+    {
+        "district": "西城",
+        "name": "百万庄南北通透两居 全明格局  户型好无浪费 满五年",
+        "total_price": "691万",
+        "unit_price": "115,437元/平",
+        "square": " 59.86平米 "
+    },
+    {
+        "district": "西城",
+        "name": "西城广安门、手帕口北街、南北通透、出行方便",
+        "total_price": "545万",
+        "unit_price": "87,424元/平",
+        "square": " 62.34平米 "
+    },
+    {
+        "district": "西城",
+        "name": "西直门内大街 央产两居 带电梯 视野好",
+        "total_price": "895万",
+        "unit_price": "132,987元/平",
+        "square": " 67.3平米 "
+    },
+    {
+        "district": "西城",
+        "name": "新街口 后桃园胡同南北三居 中间楼层采光好",
+        "total_price": "798万",
+        "unit_price": "139,755元/平",
+        "square": " 57.1平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "季景沁园 南北3居室 精装修 随时看房",
+        "total_price": "1250万",
+        "unit_price": "87,991元/平",
+        "square": " 142.06平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "百旺家苑新房源 南北通透 不临街带电梯 楼层好两居室",
+        "total_price": "1060万",
+        "unit_price": "92,038元/平",
+        "square": " 115.17平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "育新花园二期大三居把边南北向客厅有飘窗",
+        "total_price": "726万",
+        "unit_price": "77,973元/平",
+        "square": " 93.11平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "南北通透  满五  双榆树  1997年",
+        "total_price": "1200万",
+        "unit_price": "102,206元/平",
+        "square": " 117.41平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "此房满五年唯一，南北通透，有电梯，无遮挡",
+        "total_price": "595万",
+        "unit_price": "66,518元/平",
+        "square": " 89.45平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "七彩华园 带电梯 直通车库 南北通透 双卫 中间位置",
+        "total_price": "970万",
+        "unit_price": "84,850元/平",
+        "square": " 114.32平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "韦伯豪家园 高楼层 南北通透 三居室 满五年唯一",
+        "total_price": "2080万",
+        "unit_price": "122,896元/平",
+        "square": " 169.25平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "北邮南门  年代新 有电梯 采光好",
+        "total_price": "610万",
+        "unit_price": "102,178元/平",
+        "square": " 59.7平米 "
+    },
+    {
+        "district": "西城",
+        "name": "展览路 优质两居室 南北通透 中间楼层 满五年",
+        "total_price": "746万",
+        "unit_price": "129,066元/平",
+        "square": " 57.8平米 "
+    },
+    {
+        "district": "西城",
+        "name": "考拉社区 白纸坊桥 小户型 满五唯一",
+        "total_price": "478万",
+        "unit_price": "118,259元/平",
+        "square": " 40.42平米 "
+    },
+    {
+        "district": "西城",
+        "name": "西直门 车公庄 中间层  无遮挡 不临街",
+        "total_price": "688万",
+        "unit_price": "116,217元/平",
+        "square": " 59.2平米 "
+    },
+    {
+        "district": "西城",
+        "name": "宣武门西大街 新华社单位分房 双南向两居室",
+        "total_price": "650万",
+        "unit_price": "123,434元/平",
+        "square": " 52.66平米 "
+    },
+    {
+        "district": "西城",
+        "name": "广南小区 南北通透 精装修两居室",
+        "total_price": "620万",
+        "unit_price": "80,930元/平",
+        "square": " 76.61平米 "
+    },
+    {
+        "district": "西城",
+        "name": "93年建南北通透格局好，通风采光好，社区成熟，",
+        "total_price": "610万",
+        "unit_price": "105,958元/平",
+        "square": " 57.57平米 "
+    },
+    {
+        "district": "西城",
+        "name": "菜市口牛街 东南两居 无遮挡 采光好",
+        "total_price": "712万",
+        "unit_price": "97,682元/平",
+        "square": " 72.89平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "成府路20号院边户三居室，南北通透采光好",
+        "total_price": "920万",
+        "unit_price": "103,815元/平",
+        "square": " 88.62平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "海淀区万柳万泉新新家园近地铁3居",
+        "total_price": "3100万",
+        "unit_price": "174,836元/平",
+        "square": " 177.31平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "海淀北部新区 南北通透三居室 满五年唯一商品房",
+        "total_price": "518万",
+        "unit_price": "61,689元/平",
+        "square": " 83.97平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "诚心出售！ 南向 次顶层 三居 满五唯一商品房 方便看",
+        "total_price": "939万",
+        "unit_price": "87,807元/平",
+        "square": " 106.94平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "高第小区 南向 花园式小区环境 2005年建成 精装修",
+        "total_price": "1120万",
+        "unit_price": "105,363元/平",
+        "square": " 106.3平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "太平路万寿路低楼层南北通透两居室",
+        "total_price": "490万",
+        "unit_price": "95,835元/平",
+        "square": " 51.13平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "北师大南门对面南北向中间层，精装通透两居室",
+        "total_price": "565万",
+        "unit_price": "97,583元/平",
+        "square": " 57.9平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "满五年唯一，中间层，带西窗，三环内，随时签约",
+        "total_price": "505万",
+        "unit_price": "105,871元/平",
+        "square": " 47.7平米 "
+    },
+    {
+        "district": "西城",
+        "name": "西城 荣丰 住宅  可贷款 复式 精装修阳光足 看房方便",
+        "total_price": "525万",
+        "unit_price": "152,042元/平",
+        "square": " 34.53平米 "
+    },
+    {
+        "district": "西城",
+        "name": "铁树斜街正规一居室诚意出售看房方便",
+        "total_price": "449万",
+        "unit_price": "123,082元/平",
+        "square": " 36.48平米 "
+    },
+    {
+        "district": "西城",
+        "name": "三里河东路7号院南北一居房主诚心出售",
+        "total_price": "700万",
+        "unit_price": "136,453元/平",
+        "square": " 51.3平米 "
+    },
+    {
+        "district": "西城",
+        "name": "朗琴园 正规一室一厅 大落地窗",
+        "total_price": "652万",
+        "unit_price": "114,046元/平",
+        "square": " 57.17平米 "
+    },
+    {
+        "district": "西城",
+        "name": "百万庄 南北通透两居室 看房方便",
+        "total_price": "690万",
+        "unit_price": "120,693元/平",
+        "square": " 57.17平米 "
+    },
+    {
+        "district": "西城",
+        "name": "南北通透正规两室一大客厅，满五唯一商品房，诚心出售",
+        "total_price": "789万",
+        "unit_price": "151,556元/平",
+        "square": " 52.06平米 "
+    },
+    {
+        "district": "西城",
+        "name": "南露园 满五年  精装修 朝西向 采光充足 诚心出售",
+        "total_price": "570万",
+        "unit_price": "144,671元/平",
+        "square": " 39.4平米 "
+    },
+    {
+        "district": "西城",
+        "name": "满五唯一 南北通透 好楼层 采光充足 随时可谈可签",
+        "total_price": "885万",
+        "unit_price": "140,700元/平",
+        "square": " 62.9平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "上林溪精装三居 仅契税 好楼层 好户型 视野采光好",
+        "total_price": "1320万",
+        "unit_price": "104,085元/平",
+        "square": " 126.82平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "西三旗北新家园三居中楼层满五唯一",
+        "total_price": "490万",
+        "unit_price": "69,801元/平",
+        "square": " 70.2平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "西三环北路56号院精装三居诚心出售",
+        "total_price": "820万",
+        "unit_price": "112,948元/平",
+        "square": " 72.6平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "八里庄北里 南北通透两居室 中间层 房本满5年",
+        "total_price": "553万",
+        "unit_price": "102,942元/平",
+        "square": " 53.72平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "南北通透三居室小区 直通地库 2016年装修",
+        "total_price": "1215万",
+        "unit_price": "88,738元/平",
+        "square": " 136.92平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东城区，三居，东南向，中间楼层，有车位！",
+        "total_price": "725万",
+        "unit_price": "109,105元/平",
+        "square": " 66.45平米 "
+    },
+    {
+        "district": "西城",
+        "name": "阜成门-展览路甲22号院-南北向两居室-",
+        "total_price": "769万",
+        "unit_price": "131,679元/平",
+        "square": " 58.4平米 "
+    },
+    {
+        "district": "西城",
+        "name": "西单 灵境胡同   低楼层三居两南一北户型好",
+        "total_price": "1100万",
+        "unit_price": "159,884元/平",
+        "square": " 68.8平米 "
+    },
+    {
+        "district": "西城",
+        "name": "陶然北岸小区，两居室，户型不错",
+        "total_price": "1320万",
+        "unit_price": "141,982元/平",
+        "square": " 92.97平米 "
+    },
+    {
+        "district": "西城",
+        "name": "车站东街15号院  南北2居  中间楼层",
+        "total_price": "555万",
+        "unit_price": "102,835元/平",
+        "square": " 53.97平米 "
+    },
+    {
+        "district": "西城",
+        "name": "金融街 金宸国际公寓 商品房 住宅 南北通透",
+        "total_price": "3570万",
+        "unit_price": "148,158元/平",
+        "square": " 240.96平米 "
+    },
+    {
+        "district": "西城",
+        "name": "信德园 东南高层两居室，2002年小区，商品房",
+        "total_price": "880万",
+        "unit_price": "81,039元/平",
+        "square": " 108.59平米 "
+    },
+    {
+        "district": "东城",
+        "name": "和平里七区 西南朝向 田字格户型",
+        "total_price": "899万",
+        "unit_price": "120,834元/平",
+        "square": " 74.4平米 "
+    },
+    {
+        "district": "东城",
+        "name": "安交 美术馆后街 电梯直达 诚意出售",
+        "total_price": "705万",
+        "unit_price": "125,312元/平",
+        "square": " 56.26平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东交民巷 满五唯一 中高层 独立小区 可免费停车",
+        "total_price": "620万",
+        "unit_price": "125,557元/平",
+        "square": " 49.38平米 "
+    },
+    {
+        "district": "东城",
+        "name": "此价格包含同等面积的跃层 四世同堂 正对小区花园",
+        "total_price": "3000万",
+        "unit_price": "112,226元/平",
+        "square": " 267.32平米 "
+    },
+    {
+        "district": "东城",
+        "name": "安交美术馆后街三居室，诚意出售，随时签约",
+        "total_price": "865万",
+        "unit_price": "118,689元/平",
+        "square": " 72.88平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东城区聚龙花园南北三居室满五唯一",
+        "total_price": "1290万",
+        "unit_price": "71,437元/平",
+        "square": " 180.58平米 "
+    },
+    {
+        "district": "东城",
+        "name": "新上电梯房，二环里，龙潭湖，采光好！",
+        "total_price": "550万",
+        "unit_price": "89,723元/平",
+        "square": " 61.3平米 "
+    },
+    {
+        "district": "东城",
+        "name": "新景家园东区 二期青春新坐标 南北通透",
+        "total_price": "1030万",
+        "unit_price": "123,724元/平",
+        "square": " 83.25平米 "
+    },
+    {
+        "district": "东城",
+        "name": "09年商品房社区，明厨明卫全明格局，采光无遮挡",
+        "total_price": "998万",
+        "unit_price": "116,862元/平",
+        "square": " 85.4平米 "
+    },
+    {
+        "district": "东城",
+        "name": "海运仓小区环境好，商品房满五唯一，诚心出售",
+        "total_price": "1070万",
+        "unit_price": "120,320元/平",
+        "square": " 88.93平米 "
+    },
+    {
+        "district": "东城",
+        "name": "民安小区东直门北中街 南北通透 无遮挡 低楼层两居室",
+        "total_price": "830万",
+        "unit_price": "110,948元/平",
+        "square": " 74.81平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "望京新城东南两居，高层不临街精装修",
+        "total_price": "660万",
+        "unit_price": "73,760元/平",
+        "square": " 89.48平米 "
+    },
+    {
+        "district": "东城",
+        "name": "天坛东门  长青园  南北通透 采光好",
+        "total_price": "540万",
+        "unit_price": "98,902元/平",
+        "square": " 54.6平米 "
+    },
+    {
+        "district": "东城",
+        "name": "青年湖公园，中间楼层，满五年唯一两居室",
+        "total_price": "768万",
+        "unit_price": "132,620元/平",
+        "square": " 57.91平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东堂子胡同，精装修两居室，随时可看",
+        "total_price": "568万",
+        "unit_price": "86,758元/平",
+        "square": " 65.47平米 "
+    },
+    {
+        "district": "东城",
+        "name": "朝阳门北小街 低楼层南北通透两居室 收钥匙随时看房",
+        "total_price": "905万",
+        "unit_price": "133,167元/平",
+        "square": " 67.96平米 "
+    },
+    {
+        "district": "东城",
+        "name": "长青园小区 低楼层 南北通透 采光好",
+        "total_price": "535万",
+        "unit_price": "100,792元/平",
+        "square": " 53.08平米 "
+    },
+    {
+        "district": "东城",
+        "name": "香河园北里 环境优美 带电梯  视野好 没遮挡",
+        "total_price": "660万",
+        "unit_price": "95,556元/平",
+        "square": " 69.07平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东城区 定安里  南北通透两居室",
+        "total_price": "450万",
+        "unit_price": "78,535元/平",
+        "square": " 57.3平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "双卧朝南 正观小区花园，视野开阔 无遮挡 诚意卖",
+        "total_price": "939万",
+        "unit_price": "104,613元/平",
+        "square": " 89.76平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "正规两居，人车分流商品房小区，车位充足，配套齐全",
+        "total_price": "710万",
+        "unit_price": "86,692元/平",
+        "square": " 81.9平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "京通苑 南北两居 好楼层 无遮挡 满五唯一 诚意出售",
+        "total_price": "374万",
+        "unit_price": "49,708元/平",
+        "square": " 75.24平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "农光里中社区 三居室 满五年唯一 业主诚意出售",
+        "total_price": "485万",
+        "unit_price": "51,302元/平",
+        "square": " 94.54平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "兴隆家园 满五唯一 诚意出售 无遮挡",
+        "total_price": "460万",
+        "unit_price": "69,592元/平",
+        "square": " 66.1平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "国美第一城2号院 全南两居 双卫 全明格局 满五唯一",
+        "total_price": "665万",
+        "unit_price": "69,394元/平",
+        "square": " 95.83平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "满五年唯一商品房 小白楼 人的密度低",
+        "total_price": "369万",
+        "unit_price": "51,087元/平",
+        "square": " 72.23平米 "
+    },
+    {
+        "district": "东城",
+        "name": "08年商品房，小户型，2梯6户，集中供暖，有门禁",
+        "total_price": "460万",
+        "unit_price": "168,006元/平",
+        "square": " 27.38平米 "
+    },
+    {
+        "district": "东城",
+        "name": "都市馨园 满五年唯一 带阳台 朝南 不临街",
+        "total_price": "445万",
+        "unit_price": "121,254元/平",
+        "square": " 36.7平米 "
+    },
+    {
+        "district": "东城",
+        "name": "广渠门 东环居苑 商品小区 西南两居室",
+        "total_price": "790万",
+        "unit_price": "104,346元/平",
+        "square": " 75.71平米 "
+    },
+    {
+        "district": "东城",
+        "name": "协和胡同 户型方正 产权清晰 无抵押",
+        "total_price": "265万",
+        "unit_price": "175,497元/平",
+        "square": " 15.1平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东城精装两居室，交通方便，业主诚意出售",
+        "total_price": "588万",
+        "unit_price": "113,273元/平",
+        "square": " 51.91平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "环卫家园 西南向两居 高层采光好",
+        "total_price": "530万",
+        "unit_price": "53,595元/平",
+        "square": " 98.89平米 "
+    },
+    {
+        "district": "东城",
+        "name": "新景家园东区，全南两居室，全天采光",
+        "total_price": "845万",
+        "unit_price": "107,439元/平",
+        "square": " 78.65平米 "
+    },
+    {
+        "district": "东城",
+        "name": "安外大街 精装修1居室 正对花园 高楼层电梯直达",
+        "total_price": "545万",
+        "unit_price": "116,379元/平",
+        "square": " 46.83平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东四十条 海运仓小区 全南向一居 采光视野好无遮挡",
+        "total_price": "615万",
+        "unit_price": "128,473元/平",
+        "square": " 47.87平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "东西通透 居家装修 带电梯 满五年一套住房 近鸟巢",
+        "total_price": "596万",
+        "unit_price": "71,438元/平",
+        "square": " 83.43平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "东三环双井东院 南北通透三居室 看房随时",
+        "total_price": "550万",
+        "unit_price": "72,018元/平",
+        "square": " 76.37平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "安贞里 军休所 满五唯一 中间层",
+        "total_price": "880万",
+        "unit_price": "99,808元/平",
+        "square": " 88.17平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "南向两居 满五唯一  诚意出售 无抵押",
+        "total_price": "530万",
+        "unit_price": "66,617元/平",
+        "square": " 79.56平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "双合家园 满五唯一 南北通透两居室 采光好",
+        "total_price": "380万",
+        "unit_price": "42,558元/平",
+        "square": " 89.29平米 "
+    },
+    {
+        "district": "东城",
+        "name": "安德里北街24号院 自来水公司家属楼 环境好  楼层好",
+        "total_price": "746万",
+        "unit_price": "127,326元/平",
+        "square": " 58.59平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东南一居采光好 购房满五年 位置好配套全",
+        "total_price": "465万",
+        "unit_price": "120,811元/平",
+        "square": " 38.49平米 "
+    },
+    {
+        "district": "东城",
+        "name": "东城区东城区和平里五区 南北通透两居室 单位福利分房",
+        "total_price": "742万",
+        "unit_price": "134,616元/平",
+        "square": " 55.12平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "建工家园大2居2008年新小区落地窗两梯四户",
+        "total_price": "618万",
+        "unit_price": "57,345元/平",
+        "square": " 107.77平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "上观二期高层观景三居，通透全明格局，装修好可拎包住",
+        "total_price": "1650万",
+        "unit_price": "89,499元/平",
+        "square": " 184.36平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "远洋新干线 2010年次顶 特殊户型 只有契税 人车分流",
+        "total_price": "1440万",
+        "unit_price": "65,589元/平",
+        "square": " 219.55平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "中海安德鲁斯庄园东区 大联排 北入户 南花园有挑空",
+        "total_price": "1800万",
+        "unit_price": "52,511元/平",
+        "square": " 342.79平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "满五唯一 有钥匙随时能看 全南向三居室",
+        "total_price": "795万",
+        "unit_price": "61,734元/平",
+        "square": " 128.78平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "望京单价6.5万小板楼两梯三户满五年，业主唯一住房",
+        "total_price": "1224万",
+        "unit_price": "66,156元/平",
+        "square": " 185.02平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "领秀新硅谷2号院 西二旗地铁 中关村软件园",
+        "total_price": "1399万",
+        "unit_price": "99,340元/平",
+        "square": " 140.83平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "首开常青藤一期 一层带院子 双层阳 光房 不临街诚意卖",
+        "total_price": "940万",
+        "unit_price": "58,608元/平",
+        "square": " 160.39平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "满五唯一 望京CBD旁  经典复式3居 多两个天台！",
+        "total_price": "635万",
+        "unit_price": "54,984元/平",
+        "square": " 115.49平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "天鹅湾北区 南北三叠复式  全明格局  视野开阔",
+        "total_price": "1810万",
+        "unit_price": "61,634元/平",
+        "square": " 293.67平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "风格雅园 南北通透三居室 2梯3户 带2个明卫",
+        "total_price": "1160万",
+        "unit_price": "79,512元/平",
+        "square": " 145.89平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "望京金茂府 精装修一天没住过 南北通透四居 交通便利",
+        "total_price": "3380万",
+        "unit_price": "121,592元/平",
+        "square": " 277.98平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "阳光上东 三居 满五唯一 前后观景 视野开阔  带新风",
+        "total_price": "1400万",
+        "unit_price": "85,076元/平",
+        "square": " 164.56平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "城与墅 上叠别墅 客厅挑高6米 南北通透4+1户型 精装修",
+        "total_price": "850万",
+        "unit_price": "51,345元/平",
+        "square": " 165.55平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "西四环内，三卧皆朝南，明厨明卫，满五唯一南北通透。",
+        "total_price": "799万",
+        "unit_price": "86,202元/平",
+        "square": " 92.69平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "志强北园、楼龄新、管理好、诚心出售",
+        "total_price": "559万",
+        "unit_price": "87,591元/平",
+        "square": " 63.82平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "双紫小区 精装修 满五唯一 业主诚售",
+        "total_price": "848万",
+        "unit_price": "103,871元/平",
+        "square": " 81.64平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "新外大街甲25号院  满五唯一",
+        "total_price": "1100万",
+        "unit_price": "106,797元/平",
+        "square": " 103平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "六层板楼带电梯、 南北通透3+1户型、带1车位一梯两户",
+        "total_price": "2650万",
+        "unit_price": "161,763元/平",
+        "square": " 163.82平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "西四环  田村 碧森里  三居室    电梯房，南北通透，",
+        "total_price": "1120万",
+        "unit_price": "85,087元/平",
+        "square": " 131.63平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "北邮南门，南北双通透，50万精装，三层，满五唯一",
+        "total_price": "1195万",
+        "unit_price": "116,814元/平",
+        "square": " 102.3平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "铭科苑 中间位置 中间楼层 精装两居室",
+        "total_price": "545万",
+        "unit_price": "82,203元/平",
+        "square": " 66.3平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "上园村精装修南北两居室 直接入住 中间楼层",
+        "total_price": "585万",
+        "unit_price": "100,516元/平",
+        "square": " 58.2平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "明厨明卫，南北3居，满五唯一，大阳台能喝茶晒太阳",
+        "total_price": "1360万",
+        "unit_price": "93,266元/平",
+        "square": " 145.82平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "红玺台优选三居 双卧朝南 餐客厅独立分区 房况保持好",
+        "total_price": "2480万",
+        "unit_price": "152,204元/平",
+        "square": " 162.94平米 "
+    },
+    {
+        "district": "朝阳",
+        "name": "劲松一区，精装修，电梯直达，近地铁",
+        "total_price": "309万",
+        "unit_price": "63,372元/平",
+        "square": " 48.76平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "玉泉路16号院南北小两居 中楼层 楼龄新 诚心出售",
+        "total_price": "556万",
+        "unit_price": "92,252元/平",
+        "square": " 60.27平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "水科院高楼层一居，视野好，采光充足，有电梯",
+        "total_price": "468万",
+        "unit_price": "114,706元/平",
+        "square": " 40.8平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "中关村苏州桥 精装修两居室 诚心出售",
+        "total_price": "702.76万",
+        "unit_price": "105,997元/平",
+        "square": " 66.3平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "高梁桥斜街乙40号院 2室1厅 南 北",
+        "total_price": "656万",
+        "unit_price": "104,127元/平",
+        "square": " 63平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "春晖园 中间楼层 不临街 南北通透 看房方便",
+        "total_price": "650万",
+        "unit_price": "84,658元/平",
+        "square": " 76.78平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "中间楼层，满五唯一，客厅不承重，位置好",
+        "total_price": "488万",
+        "unit_price": "78,990元/平",
+        "square": " 61.78平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "花园桥  外文局 车公庄西路35号院",
+        "total_price": "699万",
+        "unit_price": "118,475元/平",
+        "square": " 59平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "当代城市家园满五唯一南北向两居，精装修",
+        "total_price": "796万",
+        "unit_price": "91,526元/平",
+        "square": " 86.97平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "上庄馨瑞嘉园 1室1厅 南",
+        "total_price": "360万",
+        "unit_price": "53,216元/平",
+        "square": " 67.65平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "海淀路小区满两年精装修两居室 随时可以签约",
+        "total_price": "510万",
+        "unit_price": "101,191元/平",
+        "square": " 50.4平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "天秀花园澄秀园3居满年唯一住宅业主诚意出售",
+        "total_price": "816万",
+        "unit_price": "91,707元/平",
+        "square": " 88.98平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "田村33号院 中间楼层 看房方便",
+        "total_price": "713万",
+        "unit_price": "53,170元/平",
+        "square": " 134.1平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "满五年，家庭一套住房，中间位置，临水系，采光好",
+        "total_price": "1199万",
+        "unit_price": "98,473元/平",
+        "square": " 121.76平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "海实区 西四环内 双卧朝南 三个阳台 无暗卧 可观西山",
+        "total_price": "850万",
+        "unit_price": "84,184元/平",
+        "square": " 100.97平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "南北通透两居室 通风自然 采光充足 近公园近商场",
+        "total_price": "598万",
+        "unit_price": "99,667元/平",
+        "square": " 60平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "上地西里，满五年，中间位置三居室，前后阳台",
+        "total_price": "1310万",
+        "unit_price": "99,772元/平",
+        "square": " 131.3平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "东升园 满五年唯一 南北三居室 临城铁",
+        "total_price": "985万",
+        "unit_price": "126,640元/平",
+        "square": " 77.78平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "北京邮电大学北门对面 东西大两居 教育部分房",
+        "total_price": "880万",
+        "unit_price": "108,683元/平",
+        "square": " 80.97平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "西三环，紫竹桥，人济山庄，高层东向两居室，安静",
+        "total_price": "1199万",
+        "unit_price": "101,671元/平",
+        "square": " 117.93平米 "
+    },
+    {
+        "district": "海淀",
+        "name": "建材城西二里 海淀产权 低楼层 正规两居室",
+        "total_price": "445万",
+        "unit_price": "70,423元/平",
+        "square": " 63.19平米 "
+    }
+]
