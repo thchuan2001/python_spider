@@ -21,11 +21,12 @@ class mySpider(scrapy.spiders.Spider):
             item['room_num']=each.xpath("./div/a/span[1]/text()").get()
             item['size']=int(each.xpath("./div/div[3]/span/text()").get().split(" ")[1].split("-")[0].replace("㎡",""))
             s=each.xpath("./div/div[6]/div[1]/span[2]/text()").get()
+            num=each.xpath("./div/div[6]/div[1]/span[1]/text()").get().split("-")[0]
             if "均价" in s:
-                item["avg_price"]=int(each.xpath("./div/div[6]/div[1]/span[1]/text()").get())
+                item["avg_price"]=int(num)
                 item['total_price']=item["avg_price"]*item['size']/10000
             else :
-                item["total_price"]=float(each.xpath("./div/div[6]/div[1]/span[1]/text()").get())
+                item["total_price"]=float(num)
                 item['avg_price']=item["total_price"]//item['size']
             item['total_price']="{:.4f}".format(item['total_price'])
             if (item['name']):
